@@ -1,0 +1,146 @@
+======================================================================
+Wagner Leitmotif Pattern Recognition & Matching Pipeline
+======================================================================
+Found 10 leitmotif files.
+  ✓ Loaded leitmotif: ForestMurmurs_motif (48 notes, 47 intervals)
+  ✓ Loaded leitmotif: Horn_motif (11 notes, 10 intervals)
+  ✓ Loaded leitmotif: Mime_motif (4 notes, 3 intervals)
+  ✓ Loaded leitmotif: NibelungsHate_motif (13 notes, 12 intervals)
+  ✓ Loaded leitmotif: Nibelungs_motif (9 notes, 8 intervals)
+  ✓ Loaded leitmotif: Ride_motif (6 notes, 5 intervals)
+  ✓ Loaded leitmotif: Ring_motif (8 notes, 7 intervals)
+  ✓ Loaded leitmotif: SiblingsLove_motif (7 notes, 6 intervals)
+  ✓ Loaded leitmotif: SwirlingBlaze_motif (6 notes, 5 intervals)
+  ✓ Loaded leitmotif: Sword_motif (7 notes, 6 intervals)
+
+Processing ennio_morricone: 19 scores
+  ✓ Parsed: A Fistful of Dollars (Morricone).musicxml (255 notes)
+  ✓ Parsed: Al Capone (The Untouchables).musicxml (107 notes)
+  ✓ Parsed: Cinema Paradiso (Morricone).musicxml (155 notes)
+  ✓ Parsed: Deborah's Theme - C'era una volta in America (Once upon a time in America).musicxml (150 notes)
+  ✓ Parsed: Ennio Morricone - Beastiality - The Thing.musicxml (176 notes)
+  ✓ Parsed: Ennio Morricone - Poverty.musicxml (240 notes)
+  ✓ Parsed: Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet).musicxml (148 notes)
+  ✓ Parsed: Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls.musicxml (152 notes)
+  ✓ Parsed: Here's to you - Ennio Morricone.musicxml (121 notes)
+  ✓ Parsed: L'Ultima Diligenza di Red Rock for Piano.musicxml (110 notes)
+  ✓ Parsed: La Califfa - Ennio Morricone.musicxml (147 notes)
+  ✓ Parsed: Love theme - Ennio Morricone.musicxml (151 notes)
+  ✓ Parsed: Malena by Ennio Morricone _ Viola and piano.musicxml (177 notes)
+  ✓ Parsed: Man with a harmonica - Ennio Morricone.musicxml (104 notes)
+  ✓ Parsed: Mon nom est personne - Ennio Morricone.musicxml (278 notes)
+  ✓ Parsed: Once Upon a Time in The West.musicxml (136 notes)
+  ✓ Parsed: Playing Love – The Legend of 1900.musicxml (251 notes)
+  ✓ Parsed: The Good The Bad and The Ugly.musicxml (182 notes)
+  ✓ Parsed: Watch Chimes (Carillon's Theme) From For a Few Dollars More.musicxml (147 notes)
+
+Processing erich_wolfgang_korngold: 13 scores
+  ✓ Parsed: Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture.musicxml (856 notes)
+  ✓ Parsed: Deception - Opening Theme.musicxml (168 notes)
+  ✓ Parsed: Korngold_ Love Scene from The Adventures of Robin Hood (1938).musicxml (569 notes)
+  ✓ Parsed: Nora's Theme - Of Human Bondage – Erich Wolfgang Korngold Nora's Theme - Of Human Bondage.musicxml (4 notes)
+  ✓ Parsed: The Adventures of Robin Hood -  Finale.musicxml (857 notes)
+  ✓ Parsed: The Adventures of Robin Hood – Erich Wolfgang Korngold Banquet at Nottingham.musicxml (383 notes)
+  ✓ Parsed: The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest.musicxml (660 notes)
+  ✓ Parsed: The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall.musicxml (222 notes)
+  ✗ Skipping The Adventures of Robin Hood – Erich Wolfgang Korngold The Adventures of Robin Hood  Suite.musicxml: tuple index out of range
+  ✓ Parsed: The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament.musicxml (750 notes)
+  ✓ Parsed: The Sea Hawk – Erich Wolfgang Korngold Leitmotifs.musicxml (184 notes)
+  ✓ Parsed: Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn).musicxml (175 notes)
+  ✓ Parsed: [WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold.musicxml (472 notes)
+
+Processing howard_shore: 8 scores
+  ✓ Parsed: At the battle of Minas Tirith.musicxml (88 notes)
+  ✓ Parsed: Forty Days and Forty Nights - Howard Shore.musicxml (94 notes)
+  ✓ Parsed: In Dreams (from Lord Of The Rings) – Howard Shore _ Piano.musicxml (234 notes)
+  ✓ Parsed: La comarca – Howard Shore.musicxml (292 notes)
+  ✓ Parsed: Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit).musicxml (401 notes)
+  ✗ Skipping The Carriage – Howard Shore.musicxml: tuple index out of range
+  ✓ Parsed: The Shire.musicxml (117 notes)
+  ✓ Parsed: The Three Hunters – Howard Shore.musicxml (60 notes)
+
+Processing john_williams: 15 scores
+  ✓ Parsed: Close Encounters of the Third Kind  Suite – John Williams.musicxml (331 notes)
+  ✓ Parsed: Flying Theme E. T. - John Williams.musicxml (559 notes)
+  ✓ Parsed: Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny).musicxml (275 notes)
+  ✓ Parsed: Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription).musicxml (343 notes)
+  ✓ Parsed: Hymn To The Fallen (Saving Private Ryan) Organ Cover.musicxml (437 notes)
+  ✓ Parsed: Indiana Jones and The Last Crusade – John Williams.musicxml (27 notes)
+  ✓ Parsed: Indiana jones theme – John Williams.musicxml (45 notes)
+  ✓ Parsed: John William - Jurassic Park Theme.musicxml (740 notes)
+  ✓ Parsed: John Williams - Schindler's List (Main Theme) (for violin and piano).musicxml (314 notes)
+  ✓ Parsed: John Williams - The Hunt (Piano Solo).musicxml (668 notes)
+  ✓ Parsed: Omaha Beach (Saving Private Ryan) by John Williams_.musicxml (104 notes)
+  ✓ Parsed: Saving Private Ryan _ Revisiting Normandy By John Williams.musicxml (9 notes)
+  ✓ Parsed: Somewhere In My Memory by John Williams.musicxml (357 notes)
+  ✓ Parsed: The Chairman's Walz (from Memoirs of a Geisha).musicxml (181 notes)
+  ✓ Parsed: The Tale of Viktor Navorski (John Williams).musicxml (612 notes)
+
+Processing max_steiner: 15 scores
+  ✓ Parsed: Ballroom Waltz - The Charge of The Light Brigade.musicxml (85 notes)
+  ✓ Parsed: Dodge City Suite – Max Steiner.musicxml (5 notes)
+  ✓ Parsed: Gone With The Wind Suite – Max Steiner.musicxml (5330 notes)
+  ✓ Parsed: Johnny Belinda Suite – Max Steiner.musicxml (40 notes)
+  ✓ Parsed: Jungle Dance – Max Steiner.musicxml (6 notes)
+  ✓ Parsed: King Kong March – Max Steiner.musicxml (715 notes)
+  ✓ Parsed: King Kong Suite – Max Steiner.musicxml (31 notes)
+  ✓ Parsed: Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep.musicxml (264 notes)
+  ✓ Parsed: Main Theme - Gone With The Wind – Max Steiner.musicxml (311 notes)
+  ✓ Parsed: Now, Voyager Suite – Max Steiner.musicxml (574 notes)
+  ✓ Parsed: Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner.musicxml (85 notes)
+  ✓ Parsed: The Adventures of Don Juan Suite.musicxml (409 notes)
+  ✓ Parsed: The Caine Mutiny March – Max Steiner.musicxml (481 notes)
+  ✓ Parsed: The Charge of The Light Brigade  -  March – Max Steiner.musicxml (386 notes)
+  ✓ Parsed: The Charge of The Light Brigade  -  Overture _ Max Steiner.musicxml (642 notes)
+
+✅ Saved 3224 matches to matches_full.csv
+
+=== Match Counts per Leitmotif per Composer ===
+composer             ennio_morricone  erich_wolfgang_korngold  howard_shore  john_williams  max_steiner
+leitmotif                                                                                              
+ForestMurmurs_motif                1                        8             0              1            4
+Horn_motif                        23                       31             7             39           53
+Mime_motif                       138                      133            48            101          141
+NibelungsHate_motif                0                        0             0              1            1
+Nibelungs_motif                    2                        1             3              4            2
+Ride_motif                       175                      178            60            177          178
+Ring_motif                        25                       23            16             40           31
+SiblingsLove_motif                36                       39            19             41           73
+SwirlingBlaze_motif              207                      164            59            207          186
+Sword_motif                       56                      155            45            157          135
+
+=== Top 20 Matches by Similarity ===
+                     composer                                                                        score    leitmotif match_type  similarity
+1612             howard_shore                                                                    The Shire   Mime_motif    contour         1.0
+685   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+672   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+673   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+674   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+675   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+676   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+677   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+678   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+679   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+680   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+681   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+682   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+683   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+684   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+1829            john_williams  Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny)  Sword_motif    contour         1.0
+670   erich_wolfgang_korngold      Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture   Mime_motif    contour         1.0
+1828            john_williams  Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny)  Sword_motif    contour         1.0
+1827            john_williams  Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny)  Sword_motif    contour         1.0
+1826            john_williams  Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny)  Sword_motif    contour         1.0
+
+✅ Visualizations saved to /Users/yalu/wagner-leitmotif-film-composer-scores/output
+
+Exporting top match excerpts for qualitative analysis...
+  📄 Excerpt saved: /Users/yalu/wagner-leitmotif-film-composer-scores/output/excerpts/excerpt_1612_Mime_motif_in_howard_shore.musicxml
+  ✗ Could not export excerpt 685: In part (None), measure (1): Cannot convert durations without types to MusicXML.
+  ✗ Could not export excerpt 672: In part (None), measure (1): Cannot convert durations without types to MusicXML.
+  📄 Excerpt saved: /Users/yalu/wagner-leitmotif-film-composer-scores/output/excerpts/excerpt_673_Mime_motif_in_erich_wolfgang_korngold.musicxml
+  ✗ Could not export excerpt 674: In part (None), measure (1): Cannot convert durations without types to MusicXML.
+
+======================================================================
+Pipeline Complete
+======================================================================
