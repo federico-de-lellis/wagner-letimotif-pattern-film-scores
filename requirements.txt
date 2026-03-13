@@ -1,0 +1,9 @@
+music21
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+openpyxl
+nbformat
+nbconvert

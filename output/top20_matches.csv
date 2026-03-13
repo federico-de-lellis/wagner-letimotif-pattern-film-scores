@@ -1,12 +1,12 @@
 composer,score,leitmotif,match_class,combined_score,interval_sim,contour_sim,rhythm_sim
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,exact,0.9333,1.0,1.0,0.6667
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
 howard_shore,The Shire,Nibelungs_motif,near-exact,0.9125,0.875,1.0,0.875
-max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,exact,0.8667,1.0,1.0,0.3333
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,exact,0.8667,1.0,1.0,0.3333
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,exact,0.8667,1.0,1.0,0.3333
+max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333
 erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,near-exact,0.8375,0.75,0.875,1.0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0

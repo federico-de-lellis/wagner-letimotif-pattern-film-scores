@@ -1,12 +1,12 @@
 composer,score,leitmotif,match_class,combined_score,interval_sim,contour_sim,rhythm_sim,start_note_idx,end_note_idx,edit_distance
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667,168,172,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,exact,0.9333,1.0,1.0,0.6667,311,315,0
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667,301,305,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,exact,0.9333,1.0,1.0,0.6667,5145,5149,0
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,168,172,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667,311,315,0
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,301,305,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,5145,5149,0
 howard_shore,The Shire,Nibelungs_motif,near-exact,0.9125,0.875,1.0,0.875,103,112,0
-max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,exact,0.8667,1.0,1.0,0.3333,488,492,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,exact,0.8667,1.0,1.0,0.3333,107,111,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,exact,0.8667,1.0,1.0,0.3333,2450,2454,0
+max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333,488,492,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333,107,111,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333,2450,2454,0
 erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,near-exact,0.8375,0.75,0.875,1.0,28,37,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,147,151,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,86,90,0
@@ -658,7 +658,7 @@ john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_mot
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,113,119,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,238,244,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,272,281,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.6,0.6,1.0,0.0,95,101,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,moderate,0.6,0.6,1.0,0.0,95,101,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.6,0.5,0.5,1.0,371,380,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,411,417,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,422,428,0
@@ -735,10 +735,10 @@ max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.57
 ennio_morricone,The Good The Bad and The Ugly,NibelungsHate_motif,strong,0.575,0.5,0.5833,0.75,132,145,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,107,116,0
 ennio_morricone,A Fistful of Dollars (Morricone),NibelungsHate_motif,strong,0.575,0.4167,0.6667,0.8333,193,206,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Nibelungs_motif,strong,0.575,0.625,0.875,0.0,196,205,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,196,205,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,166,175,0
 ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,69,78,0
-howard_shore,Forty Days and Forty Nights - Howard Shore,Nibelungs_motif,strong,0.575,0.625,0.875,0.0,36,45,0
+howard_shore,Forty Days and Forty Nights - Howard Shore,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,36,45,0
 ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,49,58,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,357,366,0
 max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,321,330,0
@@ -766,7 +766,7 @@ ennio_morricone,Ennio Morricone - Poverty,Ring_motif,moderate,0.5714,0.2857,0.85
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,311,319,0
 max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,472,480,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,191,199,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ring_motif,strong,0.5714,0.5714,0.8571,0.1429,221,229,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ring_motif,moderate,0.5714,0.5714,0.8571,0.1429,221,229,0
 ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,150,158,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,386,394,0
 max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,47,55,0
