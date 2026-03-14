@@ -1,21 +1,21 @@
 composer,score,leitmotif,match_class,combined_score,interval_sim,contour_sim,rhythm_sim
 max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
 max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667
 howard_shore,The Shire,Nibelungs_motif,near-exact,0.9125,0.875,1.0,0.875
-max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333
 max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333
+max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333
 erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,near-exact,0.8375,0.75,0.875,1.0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0
+ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0
+ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,strong,0.8333,0.6667,1.0,1.0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,approximate,0.8333,0.8333,0.8333,0.0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.8333,0.6667,1.0,1.0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.8333,0.6667,1.0,1.0

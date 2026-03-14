@@ -1,924 +1,924 @@
 composer,score,leitmotif,match_class,combined_score,interval_sim,contour_sim,rhythm_sim,start_note_idx,end_note_idx,edit_distance
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,168,172,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667,311,315,0
 max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,301,305,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,5145,5149,0
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,strong,0.9333,1.0,1.0,0.6667,168,172,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.9333,1.0,1.0,0.6667,311,315,0
 howard_shore,The Shire,Nibelungs_motif,near-exact,0.9125,0.875,1.0,0.875,103,112,0
-max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333,488,492,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333,107,111,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333,2450,2454,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.8667,1.0,1.0,0.3333,107,111,0
+max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,strong,0.8667,1.0,1.0,0.3333,488,492,0
 erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,near-exact,0.8375,0.75,0.875,1.0,28,37,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,147,151,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,86,90,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,571,575,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,48,52,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,29,33,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,357,361,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0,152,156,0
+ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0,55,59,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,386,390,0
+ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0,142,146,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0,168,172,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,322,326,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,strong,0.8333,0.6667,1.0,1.0,314,318,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,80,84,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,340,344,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,approximate,0.8333,0.8333,0.8333,0.0,60,67,1
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,77,81,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.8333,0.6667,1.0,1.0,533,537,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,29,33,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.8333,0.6667,1.0,1.0,85,89,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.8333,0.6667,1.0,1.0,32,36,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.8333,0.6667,1.0,1.0,566,570,0
-ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.8333,0.6667,1.0,1.0,114,121,0
-ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.8333,0.6667,1.0,1.0,54,61,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Mime_motif,strong,0.8333,0.6667,1.0,1.0,46,50,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,357,361,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,386,390,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,390,394,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,358,362,0
-ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0,55,59,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,35,39,0
-john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.8333,0.6667,1.0,1.0,197,201,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,649,653,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0,168,172,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.8333,0.6667,1.0,1.0,152,156,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.8333,0.6667,1.0,1.0,340,344,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,322,326,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,80,84,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,30,34,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,14,18,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,strong,0.8333,0.6667,1.0,1.0,314,318,0
-john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.8333,0.6667,1.0,1.0,357,361,0
-john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.8333,0.6667,1.0,1.0,441,445,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,111,115,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,48,52,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,29,33,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,approximate,0.8333,0.8333,0.8333,0.0,60,67,1
 john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.8333,0.6667,1.0,1.0,461,465,0
-ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0,142,146,0
-howard_shore,The Shire,Mime_motif,strong,0.8333,0.6667,1.0,1.0,105,109,0
-howard_shore,The Shire,Mime_motif,strong,0.8333,0.6667,1.0,1.0,99,103,0
+john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.8333,0.6667,1.0,1.0,441,445,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,147,151,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,86,90,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,77,81,0
+ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.8333,0.6667,1.0,1.0,54,61,0
+ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.8333,0.6667,1.0,1.0,114,121,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,239,243,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,233,237,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,198,202,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,192,196,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,143,147,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,122,126,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,117,121,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,334,338,0
-ennio_morricone,Ennio Morricone - Poverty,Mime_motif,strong,0.8333,0.6667,1.0,1.0,105,109,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.8333,0.6667,1.0,1.0,358,362,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.8333,0.6667,1.0,1.0,390,394,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,14,18,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.8333,0.6667,1.0,1.0,30,34,0
 ennio_morricone,Cinema Paradiso (Morricone),Mime_motif,strong,0.8333,0.6667,1.0,1.0,105,109,0
 ennio_morricone,Ennio Morricone - Poverty,Mime_motif,strong,0.8333,0.6667,1.0,1.0,167,171,0
+howard_shore,The Shire,Mime_motif,strong,0.8333,0.6667,1.0,1.0,105,109,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Mime_motif,strong,0.8333,0.6667,1.0,1.0,46,50,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.8333,0.6667,1.0,1.0,340,344,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,117,121,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,233,237,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,198,202,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,649,653,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,111,115,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,334,338,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.8333,0.6667,1.0,1.0,571,575,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,35,39,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,29,33,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,192,196,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Mime_motif,strong,0.8333,0.6667,1.0,1.0,143,147,0
+ennio_morricone,Ennio Morricone - Poverty,Mime_motif,strong,0.8333,0.6667,1.0,1.0,105,109,0
+john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.8333,0.6667,1.0,1.0,197,201,0
+john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.8333,0.6667,1.0,1.0,357,361,0
+howard_shore,The Shire,Mime_motif,strong,0.8333,0.6667,1.0,1.0,99,103,0
 john_williams,Flying Theme E. T. - John Williams,Nibelungs_motif,near-exact,0.8125,0.75,0.875,0.875,195,204,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SwirlingBlaze_motif,approximate,0.8,0.8,0.8,0.0,364,370,1
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,277,283,0
-john_williams,Flying Theme E. T. - John Williams,Ride_motif,approximate,0.8,0.8,1.0,0.0,511,517,1
-john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,near-exact,0.8,0.75,0.75,1.0,6,15,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,444,450,0
-max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,243,249,0
-max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,69,75,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,approximate,0.8,0.8,1.0,0.0,865,871,1
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SwirlingBlaze_motif,approximate,0.8,0.8,0.8,0.0,346,352,1
 max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,approximate,0.8,0.8,0.8,0.0,889,895,1
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,277,283,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SwirlingBlaze_motif,approximate,0.8,0.8,0.8,0.0,364,370,1
+max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,approximate,0.8,0.8,1.0,0.0,865,871,1
+max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,69,75,0
+max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,243,249,0
+john_williams,Flying Theme E. T. - John Williams,Ride_motif,approximate,0.8,0.8,1.0,0.0,511,517,1
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,444,450,0
+john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,near-exact,0.8,0.75,0.75,1.0,6,15,0
 ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.8,0.6,1.0,1.0,126,132,0
 howard_shore,La comarca – Howard Shore,Nibelungs_motif,near-exact,0.775,0.75,0.75,0.875,117,126,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,30,34,0
+john_williams,Indiana jones theme – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,3,7,0
+howard_shore,The Shire,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,6,10,0
+ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,100,104,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,69,73,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,535,539,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,128,132,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,7,11,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,63,67,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,35,39,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,166,170,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,245,249,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,255,259,0
+ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,59,63,0
+ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,110,114,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,141,145,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,161,165,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,151,155,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,265,269,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,92,96,0
 ennio_morricone,Man with a harmonica - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,5,9,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,30,34,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,85,89,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,270,274,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,91,95,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,129,133,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,51,55,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,111,115,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,98,102,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,71,75,0
+john_williams,Somewhere In My Memory by John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,66,70,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,31,35,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,158,162,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,1364,1368,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,10,14,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,59,63,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,127,131,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,129,133,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,541,545,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,538,542,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,192,196,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,58,62,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,2250,2254,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,3255,3259,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,232,236,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,286,290,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,565,569,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,490,494,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,1902,1906,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,strong,0.7667,0.6667,1.0,0.6667,154,161,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,138,142,0
+ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,12,16,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,strong,0.7667,0.6667,1.0,0.6667,91,98,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,strong,0.7667,0.6667,1.0,0.6667,37,44,0
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,53,57,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,490,494,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,92,96,0
-john_williams,Somewhere In My Memory by John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,66,70,0
-ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,110,114,0
-ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,100,104,0
-ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,59,63,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,565,569,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,85,89,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,245,249,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,58,62,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,35,39,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,535,539,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,3255,3259,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,2250,2254,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,1902,1906,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,1364,1368,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,286,290,0
-howard_shore,The Shire,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,6,10,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,7,11,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,270,274,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,141,145,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,151,155,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,161,165,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,166,170,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,129,133,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,255,259,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,265,269,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,10,14,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,232,236,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,538,542,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,71,75,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,69,73,0
-john_williams,Indiana jones theme – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,11,15,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,158,162,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,60,64,0
-john_williams,Indiana jones theme – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,3,7,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,128,132,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,12,16,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,31,35,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,138,142,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,98,102,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,63,67,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,541,545,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,51,55,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,127,131,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,59,63,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,111,115,0
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,strong,0.7667,0.6667,1.0,0.6667,53,57,0
 john_williams,Saving Private Ryan _ Revisiting Normandy By John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,5,9,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,129,133,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,192,196,0
-ennio_morricone,Here's to you - Ennio Morricone,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,91,95,0
+john_williams,Indiana jones theme – John Williams,Mime_motif,strong,0.7667,0.6667,1.0,0.6667,11,15,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,254,260,0
 max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,628,634,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,591,597,0
-ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,103,109,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,187,193,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,254,260,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.76,0.6,1.0,0.8,5,11,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,203,209,0
 max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,174,180,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,9,15,0
-john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,approximate,0.75,0.75,0.75,0.0,246,255,2
-john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,near-exact,0.75,0.75,0.75,0.75,646,655,0
-john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.75,0.625,0.875,0.875,99,108,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,187,193,0
+ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,103,109,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.76,0.6,1.0,0.8,5,11,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.76,0.6,1.0,0.8,203,209,0
 john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,approximate,0.75,0.75,0.875,0.0,92,101,2
 john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.75,0.625,0.875,0.875,18,27,0
+john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.75,0.625,0.875,0.875,99,108,0
 howard_shore,At the battle of Minas Tirith,SiblingsLove_motif,strong,0.75,0.5,1.0,1.0,44,51,0
-max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,36,42,0
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,26,32,0
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,247,253,0
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,271,277,0
-ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,23,29,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,234,240,0
-ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,135,141,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,215,221,0
-max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,28,34,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,41,47,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,31,37,0
+john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,near-exact,0.75,0.75,0.75,0.75,646,655,0
+john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,approximate,0.75,0.75,0.75,0.0,246,255,2
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,526,532,0
 john_williams,John William - Jurassic Park Theme,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,531,537,0
-ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,75,81,0
-max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,4,10,0
-max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,12,18,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,215,221,0
+ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,23,29,0
+ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,135,141,0
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,244,250,0
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,67,73,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,31,37,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,234,240,0
 max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,58,64,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,271,277,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,26,32,0
 max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,50,56,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,247,253,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,100,106,0
+john_williams,Indiana Jones and The Last Crusade – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,0,6,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,41,47,0
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,537,543,0
+ennio_morricone,Love theme - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,124,130,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,188,194,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,292,298,0
+ennio_morricone,Love theme - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,22,28,0
 ennio_morricone,Love theme - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,73,79,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,168,174,0
-john_williams,Flying Theme E. T. - John Williams,Ride_motif,strong,0.74,0.6,0.8,1.0,12,18,0
-john_williams,Indiana Jones and The Last Crusade – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,0,6,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,537,543,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,526,532,0
 john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,408,414,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,244,250,0
 john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,120,126,0
-ennio_morricone,Love theme - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,22,28,0
-ennio_morricone,Love theme - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,124,130,0
-john_williams,Flying Theme E. T. - John Williams,Ride_motif,strong,0.74,0.6,0.8,1.0,36,42,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,67,73,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,292,298,0
+ennio_morricone,Cinema Paradiso (Morricone),SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,75,81,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,152,158,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,188,194,0
+john_williams,Flying Theme E. T. - John Williams,Ride_motif,strong,0.74,0.6,0.8,1.0,36,42,0
+max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,28,34,0
+max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,36,42,0
+max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,4,10,0
+max_steiner,Ballroom Waltz - The Charge of The Light Brigade,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,12,18,0
+john_williams,Flying Theme E. T. - John Williams,Ride_motif,strong,0.74,0.6,0.8,1.0,12,18,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.74,0.6,0.8,1.0,131,137,0
 john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,459,468,0
-ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,140,149,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,186,195,0
-max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,289,298,0
 john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,439,448,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,152,156,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,484,488,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,335,339,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,8,12,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,656,660,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,552,556,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,479,483,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,150,154,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,641,645,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,319,323,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,212,216,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Sword_motif,strong,0.7333,0.6667,1.0,0.5,239,246,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,274,278,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,240,244,0
-max_steiner,King Kong March – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,622,626,0
-max_steiner,King Kong March – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,562,566,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,456,460,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,19,23,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Sword_motif,strong,0.7333,0.6667,1.0,0.5,278,285,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,604,608,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,139,143,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,60,64,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,387,391,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,451,455,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,480,484,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,580,584,0
-john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,595,599,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,153,157,0
+max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,289,298,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,186,195,0
+ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.7375,0.625,0.75,1.0,140,149,0
+ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,138,142,0
 ennio_morricone,Cinema Paradiso (Morricone),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,143,147,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,149,153,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,106,110,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,172,176,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,102,106,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,77,81,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,73,77,0
-john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,9,13,0
-ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,162,166,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,84,88,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,46,50,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,387,391,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,50,54,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,35,39,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,19,23,0
 ennio_morricone,Cinema Paradiso (Morricone),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,83,87,0
 ennio_morricone,Cinema Paradiso (Morricone),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,36,40,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,781,785,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,231,235,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,161,165,0
-howard_shore,The Shire,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,13,17,0
-howard_shore,The Shire,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,20,24,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
-john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,599,603,0
-john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,84,88,0
-john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,3,7,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,50,54,0
 john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,90,94,0
-john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,125,129,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,223,227,0
-john_williams,Somewhere In My Memory by John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,299,303,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,60,64,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,604,608,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,451,455,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,480,484,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,580,584,0
+john_williams,John William - Jurassic Park Theme,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,595,599,0
+howard_shore,The Shire,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,20,24,0
+howard_shore,The Shire,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,13,17,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
 john_williams,Close Encounters of the Third Kind  Suite – John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,90,94,0
-max_steiner,Johnny Belinda Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,11,15,0
-ennio_morricone,The Good The Bad and The Ugly,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,114,118,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,373,377,0
-ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,138,142,0
-ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,86,90,0
-ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,35,39,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,74,78,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,5,9,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,194,198,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,165,169,0
-ennio_morricone,The Good The Bad and The Ugly,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,126,130,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,337,341,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,147,151,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,316,320,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Sword_motif,strong,0.7333,0.6667,1.0,0.5,800,807,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Sword_motif,strong,0.7333,0.6667,1.0,0.5,788,795,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,88,92,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,20,24,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,463,467,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,474,478,0
+ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,35,39,0
+ennio_morricone,Love theme - Ennio Morricone,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,86,90,0
+max_steiner,King Kong March – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,622,626,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,223,227,0
+max_steiner,King Kong March – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,562,566,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,19,23,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,212,216,0
+ennio_morricone,The Good The Bad and The Ugly,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,114,118,0
+john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,84,88,0
+john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,599,603,0
 max_steiner,"Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner",Mime_motif,strong,0.7333,0.6667,0.6667,1.0,8,12,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,442,448,0
-john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.72,0.6,1.0,0.6,129,135,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,190,196,0
+john_williams,Somewhere In My Memory by John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,299,303,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,149,153,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,153,157,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,194,198,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,102,106,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,77,81,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,106,110,0
+john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,97,101,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,165,169,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,9,13,0
+john_williams,John Williams - The Hunt (Piano Solo),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,73,77,0
+john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,3,7,0
+ennio_morricone,The Good The Bad and The Ugly,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,126,130,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,5,9,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,74,78,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,125,129,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Sword_motif,strong,0.7333,0.6667,1.0,0.5,800,807,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Sword_motif,strong,0.7333,0.6667,1.0,0.5,239,246,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Sword_motif,strong,0.7333,0.6667,1.0,0.5,278,285,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Sword_motif,strong,0.7333,0.6667,1.0,0.5,788,795,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,274,278,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,552,556,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,641,645,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,152,156,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,656,660,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,484,488,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,479,483,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,456,460,0
+max_steiner,Johnny Belinda Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,11,15,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,319,323,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,8,12,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,335,339,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,337,341,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,316,320,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,150,154,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,20,24,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,88,92,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,139,143,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,84,88,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,240,244,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,172,176,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,231,235,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,781,785,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,474,478,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,373,377,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,463,467,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Mime_motif,strong,0.7333,0.6667,0.6667,1.0,161,165,0
+ennio_morricone,A Fistful of Dollars (Morricone),Mime_motif,strong,0.7333,0.6667,0.6667,1.0,162,166,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,422,428,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,190,196,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,442,448,0
 max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,2942,2948,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,3116,3122,0
 max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,4689,4695,0
+john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.72,0.6,1.0,0.6,129,135,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.72,0.6,1.0,0.6,3116,3122,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SiblingsLove_motif,strong,0.7167,0.5,1.0,0.8333,243,250,0
 ennio_morricone,Mon nom est personne - Ennio Morricone,SiblingsLove_motif,strong,0.7167,0.5,1.0,0.8333,118,125,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Sword_motif,strong,0.7167,0.5,1.0,0.8333,2230,2237,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Sword_motif,strong,0.7167,0.6667,0.8333,0.6667,84,91,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,454,463,0
+john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,657,666,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,172,181,0
 max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,153,162,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,13,22,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,172,181,0
-john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.7125,0.625,0.75,0.875,657,666,0
 ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,8,12,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,16,20,0
-ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Mime_motif,strong,0.7,0.6667,1.0,0.3333,43,47,0
-howard_shore,At the battle of Minas Tirith,Mime_motif,strong,0.7,0.6667,1.0,0.3333,84,88,0
-ennio_morricone,The Good The Bad and The Ugly,Nibelungs_motif,strong,0.7,0.625,0.625,1.0,137,146,0
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.7,0.6,0.8,0.8,2,8,0
-ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,87,91,0
-ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,17,21,0
-ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,52,56,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,45,49,0
-max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.7,0.6,0.8,0.8,422,428,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.7,0.625,0.875,0.625,92,101,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.7,0.625,0.875,0.625,37,46,0
-john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.7,0.6667,1.0,0.3333,469,473,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,38,42,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,192,196,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7,0.6667,1.0,0.3333,282,286,0
-max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,Mime_motif,strong,0.7,0.6667,1.0,0.3333,53,57,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7,0.6667,1.0,0.3333,139,143,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,29,35,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,97,103,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7,0.6667,1.0,0.3333,129,133,0
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7,0.6667,1.0,0.3333,0,4,0
 ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7,0.6667,1.0,0.3333,66,70,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7,0.6667,1.0,0.3333,67,71,0
-john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.7,0.625,0.625,1.0,209,218,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7,0.6667,1.0,0.3333,142,146,0
+ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,17,21,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,strong,0.7,0.6667,1.0,0.3333,170,174,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,29,35,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,98,104,0
-john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,SiblingsLove_motif,strong,0.7,0.6667,0.6667,0.8333,15,22,0
+ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,52,56,0
+ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Mime_motif,strong,0.7,0.6667,1.0,0.3333,43,47,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,45,49,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,strong,0.7,0.6667,1.0,0.3333,139,143,0
 max_steiner,The Caine Mutiny March – Max Steiner,Nibelungs_motif,strong,0.7,0.625,0.875,0.625,92,101,0
+john_williams,Flying Theme E. T. - John Williams,Mime_motif,strong,0.7,0.6667,1.0,0.3333,469,473,0
+howard_shore,At the battle of Minas Tirith,Mime_motif,strong,0.7,0.6667,1.0,0.3333,84,88,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,29,35,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,112,118,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,98,104,0
+max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.7,0.6,0.8,0.8,422,428,0
+ennio_morricone,Al Capone (The Untouchables),Mime_motif,strong,0.7,0.6667,1.0,0.3333,87,91,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.7,0.6,0.8,0.8,2,8,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.7,0.625,0.875,0.625,92,101,0
+john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Mime_motif,strong,0.7,0.6667,1.0,0.3333,44,48,0
+max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,Mime_motif,strong,0.7,0.6667,1.0,0.3333,53,57,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Mime_motif,strong,0.7,0.6667,1.0,0.3333,129,133,0
+ennio_morricone,The Good The Bad and The Ugly,Nibelungs_motif,strong,0.7,0.625,0.625,1.0,137,146,0
+john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,SiblingsLove_motif,strong,0.7,0.6667,0.6667,0.8333,15,22,0
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,strong,0.7,0.6667,1.0,0.3333,162,166,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.7,0.625,0.875,0.625,37,46,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,38,42,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7,0.6667,1.0,0.3333,142,146,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,strong,0.7,0.6667,1.0,0.3333,282,286,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,53,59,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,17,23,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,282,286,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,53,59,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,29,35,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,strong,0.7,0.6667,1.0,0.3333,67,71,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,97,103,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Mime_motif,strong,0.7,0.6667,1.0,0.3333,16,20,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,76,82,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,112,118,0
 john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.7,0.4,1.0,1.0,145,151,0
-john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Mime_motif,strong,0.7,0.6667,1.0,0.3333,44,48,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,strong,0.7,0.6667,1.0,0.3333,0,4,0
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,strong,0.7,0.6667,1.0,0.3333,162,166,0
-ennio_morricone,The Good The Bad and The Ugly,Horn_motif,strong,0.69,0.6,0.7,0.9,85,96,0
+john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.7,0.625,0.625,1.0,209,218,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Horn_motif,strong,0.69,0.5,0.8,1.0,149,160,0
+ennio_morricone,The Good The Bad and The Ugly,Horn_motif,strong,0.69,0.6,0.7,0.9,85,96,0
 john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.6875,0.625,0.75,0.75,632,641,0
 john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.6875,0.625,0.75,0.75,477,486,0
 ennio_morricone,The Good The Bad and The Ugly,Nibelungs_motif,strong,0.6875,0.625,0.75,0.75,64,73,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6875,0.625,0.75,0.75,2802,2811,0
+max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.6857,0.5714,0.8571,0.7143,189,197,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.6857,0.5714,0.8571,0.7143,3754,3762,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.6857,0.5714,0.8571,0.7143,2507,2515,0
-max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.6857,0.5714,0.8571,0.7143,189,197,0
-max_steiner,The Caine Mutiny March – Max Steiner,SiblingsLove_motif,strong,0.6833,0.5,1.0,0.6667,58,65,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6833,0.5,1.0,0.6667,1471,1478,0
 max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,SiblingsLove_motif,strong,0.6833,0.6667,0.8333,0.5,342,349,0
+max_steiner,The Caine Mutiny March – Max Steiner,SiblingsLove_motif,strong,0.6833,0.5,1.0,0.6667,58,65,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6833,0.6667,0.8333,0.5,423,430,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6833,0.6667,0.8333,0.5,4,11,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,230,236,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,97,103,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,539,545,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,37,43,0
-howard_shore,The Shire,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,68,74,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,39,45,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6833,0.5,1.0,0.6667,1471,1478,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,545,551,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,106,112,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Ride_motif,strong,0.68,0.6,1.0,0.4,47,53,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,40,46,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,37,43,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,106,112,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,106,112,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,105,111,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,399,405,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,97,103,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,39,45,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,230,236,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,539,545,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,118,124,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,545,551,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Ride_motif,strong,0.68,0.6,1.0,0.4,47,53,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,399,405,0
+howard_shore,The Shire,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,68,74,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,105,111,0
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,106,112,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),SwirlingBlaze_motif,strong,0.68,0.6,0.6,1.0,37,43,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.675,0.625,0.625,0.875,183,192,0
 john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.675,0.625,0.625,0.875,36,45,0
 max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.675,0.5,0.75,1.0,204,213,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.675,0.625,0.625,0.875,183,192,0
 john_williams,John Williams - The Hunt (Piano Solo),Nibelungs_motif,strong,0.675,0.625,0.625,0.875,23,32,0
 ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.675,0.5,0.75,1.0,237,246,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,20,24,1
-howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,82,86,1
-max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,33,37,1
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,311,315,1
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6667,0.5,0.8333,0.8333,393,400,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,222,226,1
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,5,9,1
 john_williams,Indiana jones theme – John Williams,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,21,25,1
-ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,67,71,1
-ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,71,75,1
-howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,91,95,1
-howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,47,51,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,505,509,1
-ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,127,131,1
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,115,119,1
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,128,132,1
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,576,580,1
+max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,416,420,1
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,73,77,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,137,141,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,71,75,1
+ennio_morricone,La Califfa - Ennio Morricone,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,83,87,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,64,68,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,212,216,1
+max_steiner,"Now, Voyager Suite – Max Steiner",Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,33,37,1
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,133,137,1
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,204,208,1
+howard_shore,At the battle of Minas Tirith,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,1,5,1
+howard_shore,At the battle of Minas Tirith,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,9,13,1
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,20,24,1
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,89,93,1
-john_williams,Somewhere In My Memory by John Williams,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,253,257,1
-ennio_morricone,Playing Love – The Legend of 1900,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,40,44,1
-ennio_morricone,Playing Love – The Legend of 1900,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,214,218,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,519,523,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,533,537,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,604,608,1
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,67,71,1
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,121,125,1
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,46,50,1
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,84,88,1
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,199,203,1
+max_steiner,The Adventures of Don Juan Suite,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,170,174,1
+erich_wolfgang_korngold,Deception - Opening Theme,SiblingsLove_motif,strong,0.6667,0.5,0.8333,0.8333,79,86,0
+erich_wolfgang_korngold,Deception - Opening Theme,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,108,112,1
+erich_wolfgang_korngold,Deception - Opening Theme,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,100,104,1
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,81,85,1
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,166,170,1
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,253,257,1
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,101,105,1
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,45,49,1
 ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,3,7,1
 ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,11,15,1
 ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,36,40,1
 ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,44,48,1
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,21,25,1
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,101,105,1
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,199,203,1
-john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,607,611,1
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,166,170,1
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,84,88,1
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,46,50,1
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,628,632,1
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,29,33,1
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,41,45,1
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,204,208,1
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,133,137,1
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,121,125,1
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,67,71,1
-ennio_morricone,La Califfa - Ennio Morricone,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,83,87,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,212,216,1
-max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,137,141,1
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,81,85,1
-erich_wolfgang_korngold,Deception - Opening Theme,SiblingsLove_motif,strong,0.6667,0.5,0.8333,0.8333,79,86,0
-max_steiner,The Adventures of Don Juan Suite,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,170,174,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,533,537,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,604,608,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,505,509,1
+max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,519,523,1
 max_steiner,King Kong March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,364,368,1
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,68,72,1
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6667,0.5,0.8333,0.8333,393,400,0
-erich_wolfgang_korngold,Deception - Opening Theme,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,108,112,1
-erich_wolfgang_korngold,Deception - Opening Theme,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,100,104,1
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,45,49,1
-ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,160,164,1
-ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,152,156,1
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,253,257,1
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,5,9,1
-howard_shore,At the battle of Minas Tirith,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,9,13,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,83,87,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,90,94,1
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,41,45,1
 howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,51,55,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,38,42,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,31,35,1
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,29,33,1
 howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,17,21,1
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,576,580,1
-howard_shore,La comarca – Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,96,100,1
 howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,5,9,1
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,73,77,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,71,75,1
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,222,226,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,31,35,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,38,42,1
+ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,152,156,1
+ennio_morricone,The Good The Bad and The Ugly,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,160,164,1
+john_williams,The Tale of Viktor Navorski (John Williams),Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,607,611,1
 howard_shore,At the battle of Minas Tirith,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,33,37,1
-howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,64,68,1
-howard_shore,At the battle of Minas Tirith,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,1,5,1
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,128,132,1
-max_steiner,The Caine Mutiny March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,416,420,1
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,115,119,1
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,36,42,0
-john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.66,0.4,1.0,0.8,336,342,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,453,459,0
+ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,67,71,1
+ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,71,75,1
+ennio_morricone,Playing Love – The Legend of 1900,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,214,218,1
+howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,47,51,1
+howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,82,86,1
+howard_shore,The Shire,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,91,95,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,90,94,1
+howard_shore,La comarca – Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,96,100,1
+ennio_morricone,Playing Love – The Legend of 1900,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,40,44,1
+ennio_morricone,Once Upon a Time in The West,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,127,131,1
+howard_shore,Forty Days and Forty Nights - Howard Shore,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,83,87,1
+john_williams,Somewhere In My Memory by John Williams,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,253,257,1
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,311,315,1
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Mime_motif,approximate,0.6667,0.6667,1.0,0.0,21,25,1
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,68,72,1
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Mime_motif,approximate,0.6667,0.6667,0.6667,0.0,628,632,1
 max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,568,574,0
-ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,110,116,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,459,465,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,146,152,0
-john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,456,462,0
+john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.66,0.4,1.0,0.8,697,703,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ride_motif,strong,0.66,0.6,0.8,0.6,342,348,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,240,246,0
+ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,119,125,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,281,287,0
+john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.66,0.4,1.0,0.8,538,544,0
+john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.66,0.4,1.0,0.8,336,342,0
+howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,36,42,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.66,0.4,1.0,0.8,573,579,0
+max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,398,404,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,459,465,0
 max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,1427,1433,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ride_motif,strong,0.66,0.4,1.0,0.8,366,372,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,1672,1678,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.66,0.6,0.8,0.6,1061,1067,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,83,89,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,47,53,0
+ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,110,116,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,169,175,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,146,152,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,101,107,0
 howard_shore,The Three Hunters – Howard Shore,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,12,18,0
 howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,71,77,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ride_motif,strong,0.66,0.6,0.8,0.6,342,348,0
-max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,398,404,0
-john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.66,0.4,1.0,0.8,538,544,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,101,107,0
-howard_shore,La comarca – Howard Shore,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,281,287,0
-john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.66,0.4,1.0,0.8,697,703,0
-ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,119,125,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,47,53,0
+john_williams,Flying Theme E. T. - John Williams,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,456,462,0
 max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,27,33,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,240,246,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,169,175,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,1672,1678,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SwirlingBlaze_motif,strong,0.66,0.6,0.8,0.6,453,459,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,29,35,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,83,89,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,146,152,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.66,0.4,1.0,0.8,146,152,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ride_motif,strong,0.66,0.4,1.0,0.8,366,372,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.66,0.6,0.8,0.6,1061,1067,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.6571,0.5714,0.5714,1.0,24,32,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Sword_motif,strong,0.65,0.5,1.0,0.5,608,615,0
-ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.65,0.5,0.75,0.875,89,98,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,163,172,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,163,172,0
-howard_shore,La comarca – Howard Shore,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,206,215,0
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Sword_motif,strong,0.65,0.5,1.0,0.5,151,158,0
-john_williams,John William - Jurassic Park Theme,SiblingsLove_motif,strong,0.65,0.5,1.0,0.5,550,557,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.65,0.5,0.75,0.875,3229,3238,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,636,645,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Nibelungs_motif,strong,0.65,0.5,0.75,0.875,1,10,0
-ennio_morricone,L'Ultima Diligenza di Red Rock for Piano,Ring_motif,strong,0.6429,0.5714,0.7143,0.7143,11,19,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,163,172,0
+ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.65,0.5,0.75,0.875,89,98,0
+john_williams,John William - Jurassic Park Theme,SiblingsLove_motif,strong,0.65,0.5,1.0,0.5,550,557,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,163,172,0
+howard_shore,La comarca – Howard Shore,Nibelungs_motif,strong,0.65,0.625,0.625,0.75,206,215,0
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Sword_motif,strong,0.65,0.5,1.0,0.5,151,158,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ring_motif,strong,0.6429,0.4286,0.8571,0.8571,553,561,0
+ennio_morricone,L'Ultima Diligenza di Red Rock for Piano,Ring_motif,strong,0.6429,0.5714,0.7143,0.7143,11,19,0
 ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,strong,0.6429,0.4286,0.8571,0.8571,173,181,0
-john_williams,John William - Jurassic Park Theme,NibelungsHate_motif,strong,0.6417,0.5,0.75,0.8333,717,730,0
 john_williams,John William - Jurassic Park Theme,NibelungsHate_motif,strong,0.6417,0.5,0.75,0.8333,633,646,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Horn_motif,strong,0.64,0.5,0.7,0.9,124,135,0
-ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,74,80,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Ride_motif,strong,0.64,0.4,0.8,1.0,324,330,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,782,788,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,348,354,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,813,819,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,238,244,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.6,1.0,0.2,116,122,0
+john_williams,John William - Jurassic Park Theme,NibelungsHate_motif,strong,0.6417,0.5,0.75,0.8333,717,730,0
 john_williams,Somewhere In My Memory by John Williams,Ride_motif,strong,0.64,0.4,0.8,1.0,60,66,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,476,482,0
+john_williams,Somewhere In My Memory by John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,85,91,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.64,0.6,1.0,0.2,2914,2920,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.64,0.6,1.0,0.2,773,779,0
 john_williams,Somewhere In My Memory by John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,203,209,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Ride_motif,strong,0.64,0.4,0.8,1.0,111,117,0
+howard_shore,The Shire,Ride_motif,strong,0.64,0.4,0.8,1.0,52,58,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.6,1.0,0.2,116,122,0
+howard_shore,The Shire,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,38,44,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,813,819,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ride_motif,strong,0.64,0.4,0.8,1.0,167,173,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Ride_motif,strong,0.64,0.4,0.8,1.0,324,330,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ride_motif,strong,0.64,0.4,0.8,1.0,86,92,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ride_motif,strong,0.64,0.6,0.6,0.8,162,168,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,348,354,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,775,781,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Ride_motif,strong,0.64,0.4,0.8,1.0,281,287,0
+ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,74,80,0
+ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Ride_motif,strong,0.64,0.4,0.8,1.0,61,67,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,476,482,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,183,189,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,238,244,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,220,226,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,136,142,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Ride_motif,strong,0.64,0.4,0.8,1.0,281,287,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,782,788,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Horn_motif,strong,0.64,0.5,0.7,0.9,124,135,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),Ride_motif,strong,0.64,0.4,0.8,1.0,111,117,0
+ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,25,31,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,177,183,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,44,50,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,276,282,0
+max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,185,191,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,115,121,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,52,58,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,65,71,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,172,178,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,105,111,0
+john_williams,The Tale of Viktor Navorski (John Williams),Ride_motif,strong,0.64,0.6,0.6,0.8,129,135,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,234,240,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,76,82,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,292,298,0
+max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,170,176,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,23,29,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,54,60,0
 ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,100,106,0
 ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,125,131,0
-john_williams,Somewhere In My Memory by John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,85,91,0
-ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Ride_motif,strong,0.64,0.4,0.8,1.0,61,67,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ride_motif,strong,0.64,0.6,0.6,0.8,162,168,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ride_motif,strong,0.64,0.4,0.8,1.0,86,92,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,775,781,0
-howard_shore,The Shire,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,38,44,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,76,82,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.64,0.6,1.0,0.2,773,779,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.64,0.6,1.0,0.2,2914,2920,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,234,240,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,52,58,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,44,50,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,23,29,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ride_motif,strong,0.64,0.4,0.8,1.0,167,173,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.64,0.6,0.6,0.8,183,189,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,65,71,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,105,111,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,172,178,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,276,282,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,115,121,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,54,60,0
-howard_shore,The Shire,Ride_motif,strong,0.64,0.4,0.8,1.0,52,58,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,292,298,0
-ennio_morricone,Watch Chimes (Carillon's Theme) From For a Few Dollars More,SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,25,31,0
-john_williams,The Tale of Viktor Navorski (John Williams),Ride_motif,strong,0.64,0.6,0.6,0.8,129,135,0
-max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,170,176,0
-max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.64,0.4,0.8,1.0,185,191,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,61,70,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,608,617,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,135,144,0
-howard_shore,At the battle of Minas Tirith,Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,7,16,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,61,70,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,198,207,0
 max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,3,12,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,41,48,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Banquet at Nottingham,Sword_motif,strong,0.6333,0.6667,0.6667,0.5,47,54,0
-max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SiblingsLove_motif,strong,0.6333,0.3333,1.0,0.8333,96,103,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,198,207,0
+howard_shore,At the battle of Minas Tirith,Nibelungs_motif,strong,0.6375,0.625,0.75,0.5,7,16,0
 erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,13,20,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SiblingsLove_motif,strong,0.6333,0.6667,0.6667,0.5,118,125,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6333,0.6667,0.6667,0.5,122,129,0
-john_williams,John William - Jurassic Park Theme,SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,513,520,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,SiblingsLove_motif,strong,0.6333,0.6667,0.6667,0.5,125,132,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Banquet at Nottingham,Sword_motif,strong,0.6333,0.6667,0.6667,0.5,47,54,0
 erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Sword_motif,strong,0.6333,0.6667,0.6667,0.5,400,407,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,SiblingsLove_motif,strong,0.6333,0.6667,0.6667,0.5,125,132,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SiblingsLove_motif,strong,0.6333,0.6667,0.6667,0.5,118,125,0
+max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,SiblingsLove_motif,strong,0.6333,0.3333,1.0,0.8333,96,103,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,229,236,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,679,688,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,688,697,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,41,48,0
+john_williams,John William - Jurassic Park Theme,SiblingsLove_motif,strong,0.6333,0.5,0.8333,0.6667,513,520,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,237,246,0
-max_steiner,The Caine Mutiny March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,75,84,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,688,697,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,28,37,0
 ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,83,92,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Nibelungs_motif,strong,0.625,0.625,0.625,0.625,62,71,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,2993,3002,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Nibelungs_motif,strong,0.625,0.625,0.625,0.625,1,10,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,28,37,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,3167,3176,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,95,101,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,315,321,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,204,210,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,246,252,0
-john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.62,0.4,1.0,0.6,81,87,0
-john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.62,0.4,1.0,0.6,75,81,0
-howard_shore,The Shire,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,28,34,0
-john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.62,0.5,0.7,0.8,487,498,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,615,621,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,625,631,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,259,265,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,2993,3002,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,679,688,0
+max_steiner,The Caine Mutiny March – Max Steiner,Nibelungs_motif,strong,0.625,0.5,0.75,0.75,75,84,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ride_motif,strong,0.62,0.4,1.0,0.6,485,491,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,315,321,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,302,308,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,57,63,0
-max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.62,0.4,1.0,0.6,219,225,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,259,265,0
 john_williams,Indiana jones theme – John Williams,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,27,33,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.62,0.6,0.8,0.4,4262,4268,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,195,201,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,74,80,0
-ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,131,137,0
-john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.62,0.4,0.8,0.9,573,584,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,243,249,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,264,270,0
 ennio_morricone,Ennio Morricone - Poverty,Ride_motif,strong,0.62,0.4,1.0,0.6,128,134,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Horn_motif,strong,0.62,0.4,0.8,0.9,473,484,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Banquet at Nottingham,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,351,357,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,36,42,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.62,0.4,1.0,0.6,71,77,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.62,0.4,1.0,0.6,22,28,0
-john_williams,The Tale of Viktor Navorski (John Williams),SwirlingBlaze_motif,strong,0.62,0.4,1.0,0.6,490,496,0
-john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.62,0.4,0.8,0.9,336,347,0
+max_steiner,The Adventures of Don Juan Suite,SwirlingBlaze_motif,strong,0.62,0.4,1.0,0.6,219,225,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Banquet at Nottingham,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,351,357,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,95,101,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,156,162,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,74,80,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.62,0.4,1.0,0.6,71,77,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,57,63,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,36,42,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,246,252,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,264,270,0
+ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,131,137,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Horn_motif,strong,0.62,0.4,0.8,0.9,473,484,0
+john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.62,0.5,0.7,0.8,487,498,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.62,0.6,0.8,0.4,4262,4268,0
+howard_shore,The Shire,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,28,34,0
+john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,243,249,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,195,201,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.62,0.4,1.0,0.6,204,210,0
 john_williams,The Tale of Viktor Navorski (John Williams),SwirlingBlaze_motif,strong,0.62,0.4,1.0,0.6,570,576,0
 max_steiner,"Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner",Ride_motif,strong,0.62,0.4,1.0,0.6,46,52,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,615,621,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,625,631,0
+john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.62,0.4,0.8,0.9,336,347,0
+john_williams,The Tale of Viktor Navorski (John Williams),SwirlingBlaze_motif,strong,0.62,0.4,1.0,0.6,490,496,0
 erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,Ride_motif,strong,0.62,0.4,1.0,0.6,511,517,0
-john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),SwirlingBlaze_motif,strong,0.62,0.6,0.8,0.4,156,162,0
+john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.62,0.4,0.8,0.9,573,584,0
+john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.62,0.4,1.0,0.6,81,87,0
+john_williams,John William - Jurassic Park Theme,Ride_motif,strong,0.62,0.4,1.0,0.6,75,81,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Sword_motif,strong,0.6167,0.5,1.0,0.3333,4785,4792,0
-ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,37,44,0
-ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.6167,0.5,0.6667,0.8333,96,103,0
-ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,64,71,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,63,70,0
-ennio_morricone,Man with a harmonica - Ennio Morricone,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,47,54,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,49,56,0
-ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,29,36,0
 ennio_morricone,Ennio Morricone - Poverty,Sword_motif,strong,0.6167,0.3333,0.8333,1.0,15,22,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,49,56,0
 john_williams,Flying Theme E. T. - John Williams,SiblingsLove_motif,strong,0.6167,0.5,0.6667,0.8333,196,203,0
 ennio_morricone,Here's to you - Ennio Morricone,SiblingsLove_motif,strong,0.6167,0.5,0.6667,0.8333,8,15,0
-ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,72,79,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,63,70,0
+ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,37,44,0
 ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,99,106,0
+ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,72,79,0
+ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,64,71,0
 ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,2,9,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.6143,0.5714,0.7143,0.5714,4578,4586,0
-john_williams,Somewhere In My Memory by John Williams,Ring_motif,strong,0.6143,0.4286,0.8571,0.7143,168,176,0
+ennio_morricone,Al Capone (The Untouchables),SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,29,36,0
+ennio_morricone,Once Upon a Time in The West,SiblingsLove_motif,strong,0.6167,0.5,0.6667,0.8333,96,103,0
+ennio_morricone,Man with a harmonica - Ennio Morricone,SiblingsLove_motif,strong,0.6167,0.3333,0.8333,1.0,47,54,0
 john_williams,Somewhere In My Memory by John Williams,Ring_motif,strong,0.6143,0.4286,0.8571,0.7143,305,313,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,223,232,0
-john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,118,127,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,433,442,0
+john_williams,Somewhere In My Memory by John Williams,Ring_motif,strong,0.6143,0.4286,0.8571,0.7143,168,176,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.6143,0.5714,0.7143,0.5714,4578,4586,0
+ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,53,62,0
 john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,135,144,0
 max_steiner,King Kong Suite – Max Steiner,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,19,28,0
-ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,132,141,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,338,347,0
-ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,53,62,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,44,53,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,223,232,0
+john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,118,127,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,356,365,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,433,442,0
+ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,132,141,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,44,53,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.6125,0.5,0.625,0.875,338,347,0
 john_williams,The Chairman's Walz (from Memoirs of a Geisha),Horn_motif,strong,0.61,0.4,0.7,1.0,88,99,0
-john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.61,0.4,0.7,1.0,151,162,0
 max_steiner,The Adventures of Don Juan Suite,Horn_motif,strong,0.61,0.4,0.7,1.0,156,167,0
+john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.61,0.4,0.7,1.0,151,162,0
 john_williams,Flying Theme E. T. - John Williams,NibelungsHate_motif,strong,0.6083,0.5,0.75,0.6667,190,203,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,3063,3072,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,3028,3035,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,3065,3072,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,3026,3035,0
-max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,1459,1466,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,5081,5087,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,1254,1260,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.625,0.625,0.5,5143,5152,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,3234,3240,0
-max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,11,17,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,230,236,0
+max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,436,442,0
 max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,117,123,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,277,283,0
-john_williams,Somewhere In My Memory by John Williams,Ring_motif,strong,0.6,0.4286,0.7143,0.8571,185,193,0
+ennio_morricone,A Fistful of Dollars (Morricone),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,77,83,0
 max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,349,355,0
+max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,11,17,0
+ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,118,124,0
+ennio_morricone,Ennio Morricone - Poverty,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,28,34,0
+ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.5,1.0,222,229,0
+ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,101,108,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,347,356,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,272,281,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,252,261,0
+john_williams,Indiana Jones and The Last Crusade – John Williams,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,20,26,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,411,417,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,92,98,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,58,64,0
+max_steiner,The Adventures of Don Juan Suite,Ring_motif,strong,0.6,0.5714,0.5714,0.7143,289,297,0
+ennio_morricone,A Fistful of Dollars (Morricone),SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,61,68,0
 max_steiner,"Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner",SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,0,6,0
 max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,250,256,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Sword_motif,strong,0.6,0.5,0.8333,0.5,240,247,0
+max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,144,150,0
+ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,79,85,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,199,205,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,277,283,0
+ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.6,0.5,0.7,0.7,85,96,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,238,244,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,158,164,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,113,119,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,60,66,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,219,225,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,197,203,0
+ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,moderate,0.6,0.6,1.0,0.0,95,101,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Sword_motif,strong,0.6,0.3333,1.0,0.6667,108,115,0
+ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,52,58,0
+ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,19,25,0
+max_steiner,King Kong March – Max Steiner,Horn_motif,strong,0.6,0.5,0.7,0.7,74,85,0
+max_steiner,King Kong March – Max Steiner,Horn_motif,strong,0.6,0.5,0.7,0.7,301,312,0
+ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,168,174,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,411,417,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,116,122,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,3065,3072,0
+erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,113,120,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SwirlingBlaze_motif,strong,0.6,0.6,0.6,0.6,51,57,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,424,431,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,422,428,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.6,0.5,0.5,1.0,371,380,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ride_motif,strong,0.6,0.4,0.8,0.8,391,397,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,3028,3035,0
+max_steiner,Gone With The Wind Suite – Max Steiner,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,1459,1466,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,5081,5087,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,3234,3240,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ride_motif,strong,0.6,0.4,0.8,0.8,1254,1260,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.625,0.625,0.5,5143,5152,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,3063,3072,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,3026,3035,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Sword_motif,strong,0.6,0.3333,1.0,0.6667,167,174,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,moderate,0.6,0.2,1.0,1.0,613,619,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,strong,0.6,0.4,0.8,0.8,556,562,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,moderate,0.6,0.2,1.0,1.0,529,535,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,moderate,0.6,0.2,1.0,1.0,316,322,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,moderate,0.6,0.2,1.0,1.0,273,279,0
-max_steiner,King Kong March – Max Steiner,Horn_motif,strong,0.6,0.5,0.7,0.7,301,312,0
 john_williams,John Williams - The Hunt (Piano Solo),Ride_motif,moderate,0.6,0.2,1.0,1.0,119,125,0
-max_steiner,King Kong March – Max Steiner,Horn_motif,strong,0.6,0.5,0.7,0.7,74,85,0
-max_steiner,The Caine Mutiny March – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,436,442,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Sword_motif,strong,0.6,0.5,0.8333,0.5,240,247,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,199,205,0
-max_steiner,The Adventures of Don Juan Suite,Ring_motif,strong,0.6,0.5714,0.5714,0.7143,289,297,0
-john_williams,The Tale of Viktor Navorski (John Williams),SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,133,140,0
-max_steiner,"Now, Voyager Suite – Max Steiner",SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,144,150,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,230,236,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.6,0.4,0.8,0.8,37,43,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,158,164,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,60,66,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Sword_motif,strong,0.6,0.3333,1.0,0.6667,108,115,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ride_motif,strong,0.6,0.4,0.8,0.8,391,397,0
-ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.6,0.5,0.7,0.7,85,96,0
-ennio_morricone,La Califfa - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,79,85,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.6,0.4,0.8,0.8,86,92,0
 howard_shore,The Shire,SwirlingBlaze_motif,strong,0.6,0.6,0.6,0.6,6,12,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.6,0.4,0.8,0.8,25,31,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.6,0.4,0.8,0.8,86,92,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Robin enters The Great Hall,Ride_motif,strong,0.6,0.4,0.8,0.8,37,43,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,SwirlingBlaze_motif,strong,0.6,0.6,0.6,0.6,14,20,0
+john_williams,The Tale of Viktor Navorski (John Williams),SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,133,140,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Sword_motif,strong,0.6,0.5,0.8333,0.5,76,83,0
 erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,114,120,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Sword_motif,strong,0.6,0.3333,1.0,0.6667,167,174,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,SwirlingBlaze_motif,strong,0.6,0.6,0.6,0.6,14,20,0
-ennio_morricone,Ennio Morricone - Poverty,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,28,34,0
-ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.5,1.0,222,229,0
-ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,101,108,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,252,261,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,113,119,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,238,244,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,272,281,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,moderate,0.6,0.6,1.0,0.0,95,101,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.6,0.5,0.5,1.0,371,380,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,411,417,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,422,428,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,424,431,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,SwirlingBlaze_motif,strong,0.6,0.6,0.6,0.6,51,57,0
-erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,SiblingsLove_motif,strong,0.6,0.3333,1.0,0.6667,113,120,0
-ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,168,174,0
-howard_shore,At the battle of Minas Tirith,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,26,35,0
-howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,15,21,0
-howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,53,59,0
 howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,81,87,0
-ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,52,58,0
-ennio_morricone,The Good The Bad and The Ugly,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,19,25,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,219,225,0
-ennio_morricone,Playing Love – The Legend of 1900,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,197,203,0
-ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.5,1.0,84,91,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Ride_motif,strong,0.6,0.4,0.8,0.8,116,122,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,347,356,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,92,98,0
-john_williams,Indiana Jones and The Last Crusade – John Williams,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,20,26,0
-ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,118,124,0
+howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,53,59,0
+howard_shore,At the battle of Minas Tirith,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,15,21,0
+howard_shore,At the battle of Minas Tirith,Nibelungs_motif,strong,0.6,0.5,0.5,1.0,26,35,0
+john_williams,Somewhere In My Memory by John Williams,Ring_motif,strong,0.6,0.4286,0.7143,0.8571,185,193,0
 ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,16,22,0
 ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Ride_motif,strong,0.6,0.4,0.8,0.8,131,137,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,411,417,0
 ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Ride_motif,strong,0.6,0.4,0.8,0.8,29,35,0
-ennio_morricone,A Fistful of Dollars (Morricone),SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,77,83,0
-ennio_morricone,A Fistful of Dollars (Morricone),SiblingsLove_motif,strong,0.6,0.5,0.8333,0.5,61,68,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,SwirlingBlaze_motif,strong,0.6,0.4,0.8,0.8,58,64,0
-john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,721,730,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Ride_motif,strong,0.6,0.4,0.8,0.8,25,31,0
+ennio_morricone,Ennio Morricone - Poverty,SiblingsLove_motif,strong,0.6,0.5,0.5,1.0,84,91,0
 ennio_morricone,Ennio Morricone - Poverty,Nibelungs_motif,strong,0.6,0.625,0.625,0.5,99,108,0
+john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.6,0.5,0.75,0.625,721,730,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),NibelungsHate_motif,strong,0.5917,0.5,0.75,0.5833,193,206,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),NibelungsHate_motif,strong,0.5917,0.5,0.75,0.5833,56,69,0
+john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.59,0.5,0.6,0.8,707,718,0
 ennio_morricone,Cinema Paradiso (Morricone),Horn_motif,strong,0.59,0.5,0.6,0.8,104,115,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Horn_motif,strong,0.59,0.5,0.8,0.5,1384,1395,0
-john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.59,0.5,0.6,0.8,707,718,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,125,134,0
-john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,637,646,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,308,317,0
-max_steiner,Johnny Belinda Suite – Max Steiner,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,1,10,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,345,354,0
-ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,17,26,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,2827,2836,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,308,317,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,3927,3936,0
+john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,637,646,0
 ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,198,207,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,463,472,0
-ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,60,69,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,90,99,0
+ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,17,26,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,57,66,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,126,135,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,125,134,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,85,94,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,57,66,0
 ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,17,26,0
-max_steiner,"Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner",Ring_motif,strong,0.5857,0.4286,0.5714,1.0,0,8,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,57,66,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,85,94,0
+ennio_morricone,La Califfa - Ennio Morricone,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,60,69,0
+max_steiner,Johnny Belinda Suite – Max Steiner,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,1,10,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,125,134,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,90,99,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,125,134,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Nibelungs_motif,strong,0.5875,0.5,0.625,0.75,463,472,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Ring_motif,moderate,0.5857,0.2857,1.0,0.7143,27,35,0
-john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,strong,0.5857,0.4286,0.5714,1.0,90,98,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.5857,0.4286,0.5714,1.0,258,266,0
+max_steiner,"Tara's Theme – Mack Discant, Max Steiner, Percy Faith Tara's Theme - Max Steiner",Ring_motif,strong,0.5857,0.4286,0.5714,1.0,0,8,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.5857,0.4286,0.5714,1.0,160,168,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.5857,0.4286,0.5714,1.0,258,266,0
+john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,strong,0.5857,0.4286,0.5714,1.0,90,98,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5857,0.4286,0.8571,0.5714,1664,1672,0
 john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5833,0.5,0.6667,0.6667,501,514,0
+john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5833,0.5,0.6667,0.6667,138,151,0
 john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5833,0.5,0.6667,0.6667,288,301,0
 erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,NibelungsHate_motif,strong,0.5833,0.4167,0.75,0.75,16,29,0
-john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5833,0.5,0.6667,0.6667,138,151,0
-john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.6,1.0,262,273,0
-john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.8,0.7,21,32,0
-john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.6,1.0,292,303,0
 max_steiner,Gone With The Wind Suite – Max Steiner,Horn_motif,strong,0.58,0.4,0.8,0.7,1664,1675,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Horn_motif,strong,0.58,0.4,0.6,1.0,247,258,0
+john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.6,1.0,262,273,0
 john_williams,The Chairman's Walz (from Memoirs of a Geisha),Horn_motif,strong,0.58,0.4,0.8,0.7,99,110,0
+john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.6,1.0,292,303,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Horn_motif,strong,0.58,0.4,0.6,1.0,247,258,0
+john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.58,0.4,0.8,0.7,21,32,0
+howard_shore,Forty Days and Forty Nights - Howard Shore,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,36,45,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,196,205,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,357,366,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,107,116,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,158,167,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,284,293,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,321,330,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,71,80,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,175,184,0
+howard_shore,The Shire,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,11,20,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,3385,3394,0
 howard_shore,La comarca – Howard Shore,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,55,64,0
 howard_shore,La comarca – Howard Shore,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,217,226,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,3385,3394,0
-ennio_morricone,The Good The Bad and The Ugly,NibelungsHate_motif,strong,0.575,0.5,0.5833,0.75,132,145,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,107,116,0
-ennio_morricone,A Fistful of Dollars (Morricone),NibelungsHate_motif,strong,0.575,0.4167,0.6667,0.8333,193,206,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,196,205,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,166,175,0
 ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,69,78,0
-howard_shore,Forty Days and Forty Nights - Howard Shore,Nibelungs_motif,moderate,0.575,0.625,0.875,0.0,36,45,0
-ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,49,58,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,357,366,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,321,330,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,94,103,0
+ennio_morricone,The Good The Bad and The Ugly,NibelungsHate_motif,strong,0.575,0.5,0.5833,0.75,132,145,0
+max_steiner,"Now, Voyager Suite – Max Steiner",Nibelungs_motif,strong,0.575,0.5,0.75,0.5,1,10,0
 ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,89,98,0
 ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,109,118,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,158,167,0
-howard_shore,The Shire,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,11,20,0
 max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,309,318,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Nibelungs_motif,strong,0.575,0.5,0.5,0.875,175,184,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,284,293,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,71,80,0
-max_steiner,"Now, Voyager Suite – Max Steiner",Nibelungs_motif,strong,0.575,0.5,0.75,0.5,1,10,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.575,0.375,0.625,1.0,94,103,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,302,310,0
-max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,138,146,0
-john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,strong,0.5714,0.5714,0.5714,0.5714,54,62,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Nibelungs_motif,strong,0.575,0.375,0.625,1.0,166,175,0
+ennio_morricone,A Fistful of Dollars (Morricone),NibelungsHate_motif,strong,0.575,0.4167,0.6667,0.8333,193,206,0
+ennio_morricone,Here's to you - Ennio Morricone,Nibelungs_motif,strong,0.575,0.5,0.75,0.5,49,58,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,66,74,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,5036,5044,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,3276,3284,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,2335,2343,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,232,240,0
-max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,272,280,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,386,394,0
+ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,150,158,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,7,15,0
-ennio_morricone,Ennio Morricone - Poverty,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,40,48,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,311,319,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,472,480,0
 john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,191,199,0
 max_steiner,Main Theme - Gone With The Wind – Max Steiner,Ring_motif,moderate,0.5714,0.5714,0.8571,0.1429,221,229,0
-ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,150,158,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,386,394,0
-max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,47,55,0
-max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,200,208,0
-max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,231,239,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,348,356,0
+max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,272,280,0
+ennio_morricone,Ennio Morricone - Poverty,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,40,48,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,339,347,0
-john_williams,Close Encounters of the Third Kind  Suite – John Williams,Horn_motif,moderate,0.57,0.2,0.9,1.0,67,78,0
+max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,231,239,0
+max_steiner,Love Theme - The Big Sleep – Max Steiner Love Theme - The Big Sleep,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,47,55,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,3276,3284,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,232,240,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,2335,2343,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,311,319,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5714,0.2857,0.8571,0.8571,302,310,0
+max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,200,208,0
+max_steiner,The Caine Mutiny March – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,138,146,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,472,480,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,strong,0.5714,0.4286,0.7143,0.7143,5036,5044,0
+john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,strong,0.5714,0.5714,0.5714,0.5714,54,62,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Horn_motif,strong,0.57,0.3,0.8,0.9,214,225,0
+john_williams,Close Encounters of the Third Kind  Suite – John Williams,Horn_motif,moderate,0.57,0.2,0.9,1.0,67,78,0
 john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5667,0.5,0.5,0.8333,633,646,0
 john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),NibelungsHate_motif,strong,0.5667,0.5,0.6667,0.5833,181,194,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,67,76,0
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,27,36,0
-max_steiner,Johnny Belinda Suite – Max Steiner,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,10,19,0
-john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,440,449,0
-ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,66,75,0
-ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,17,26,0
-john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,407,416,0
 ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,86,95,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,17,26,0
+ennio_morricone,Gabriel's Oboe – Ennio Morricone Gabriel's Oboe – The Falls,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,67,76,0
+ennio_morricone,Gabriel's Oboe from The Mission - Ennio Morricone (Brass Quintet),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,66,75,0
 howard_shore,The Shire,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,92,101,0
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,27,36,0
+john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,407,416,0
+john_williams,John William - Jurassic Park Theme,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,440,449,0
+max_steiner,Johnny Belinda Suite – Max Steiner,Nibelungs_motif,strong,0.5625,0.5,0.625,0.625,10,19,0
 max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.5625,0.375,0.75,0.75,32,41,0
+erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Horn_motif,strong,0.56,0.4,0.8,0.6,138,149,0
+john_williams,Somewhere In My Memory by John Williams,Horn_motif,strong,0.56,0.4,0.6,0.9,252,263,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Horn_motif,strong,0.56,0.4,0.6,0.9,135,146,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Horn_motif,strong,0.56,0.3,0.9,0.7,1193,1204,0
 ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.56,0.3,0.7,1.0,101,112,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Horn_motif,strong,0.56,0.3,0.7,1.0,138,149,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Horn_motif,strong,0.56,0.3,0.7,1.0,276,287,0
 ennio_morricone,Ennio Morricone - Poverty,Horn_motif,strong,0.56,0.5,0.5,0.8,29,40,0
-max_steiner,The Adventures of Don Juan Suite,Horn_motif,strong,0.56,0.4,0.6,0.9,186,197,0
-ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.56,0.3,0.7,1.0,2,13,0
+john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Horn_motif,strong,0.56,0.4,0.6,0.9,120,131,0
 ennio_morricone,Cinema Paradiso (Morricone),Horn_motif,strong,0.56,0.3,0.7,1.0,2,13,0
 ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.56,0.3,0.7,1.0,50,61,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Horn_motif,strong,0.56,0.4,0.6,0.9,108,119,0
-john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.56,0.4,0.6,0.9,549,560,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,Horn_motif,strong,0.56,0.4,0.6,0.9,135,146,0
-john_williams,Somewhere In My Memory by John Williams,Horn_motif,strong,0.56,0.4,0.6,0.9,252,263,0
-john_williams,John Williams - Schindler's List (Main Theme) (for violin and piano),Horn_motif,strong,0.56,0.4,0.6,0.9,120,131,0
 john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Horn_motif,strong,0.56,0.4,0.6,0.9,379,390,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Horn_motif,strong,0.56,0.3,0.9,0.7,1193,1204,0
-john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.56,0.4,0.6,0.9,313,324,0
-erich_wolfgang_korngold,Wedding March from _Midsummer Nigt's Dream_ (F.Mendelssohn),Horn_motif,strong,0.56,0.4,0.8,0.6,138,149,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Horn_motif,strong,0.56,0.3,0.7,1.0,276,287,0
+ennio_morricone,Love theme - Ennio Morricone,Horn_motif,strong,0.56,0.3,0.7,1.0,2,13,0
+max_steiner,The Adventures of Don Juan Suite,Horn_motif,strong,0.56,0.4,0.6,0.9,186,197,0
 john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.56,0.4,0.6,0.9,164,175,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Horn_motif,strong,0.56,0.3,0.7,1.0,138,149,0
-john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5583,0.5,0.5833,0.6667,651,664,0
+john_williams,John Williams - The Hunt (Piano Solo),Horn_motif,strong,0.56,0.4,0.6,0.9,549,560,0
+john_williams,Flying Theme E. T. - John Williams,Horn_motif,strong,0.56,0.4,0.6,0.9,313,324,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Horn_motif,strong,0.56,0.4,0.6,0.9,108,119,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5583,0.5,0.75,0.4167,17,30,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5583,0.4167,0.6667,0.75,91,104,0
 howard_shore,The Shire,NibelungsHate_motif,strong,0.5583,0.4167,0.6667,0.75,93,106,0
-john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,616,624,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,132,140,0
-john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,7,15,0
-ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,137,145,0
+john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5583,0.5,0.5833,0.6667,651,664,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5583,0.4167,0.6667,0.75,91,104,0
 ennio_morricone,L'Ultima Diligenza di Red Rock for Piano,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,90,98,0
 max_steiner,The Adventures of Don Juan Suite,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,14,22,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,65,73,0
-max_steiner,The Adventures of Don Juan Suite,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,384,392,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,341,349,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,14,22,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,168,176,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,177,185,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,247,255,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,256,264,0
-howard_shore,The Three Hunters – Howard Shore,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,15,23,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,246,254,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,5,13,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,275,283,0
 erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,62,70,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,9,17,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,329,337,0
-john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,588,596,0
-john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,473,481,0
-john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,444,452,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,291,299,0
-erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,275,283,0
 erich_wolfgang_korngold,Captain Blood Overture – Erich Wolfgang Korngold Captain Blood Overture,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,506,514,0
+erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,291,299,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,258,266,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,3133,3141,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,31,39,0
-howard_shore,La comarca – Howard Shore,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,111,119,0
+ennio_morricone,Playing Love – The Legend of 1900,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,137,145,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,168,176,0
+john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,444,452,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,65,73,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,341,349,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,246,254,0
+max_steiner,The Adventures of Don Juan Suite,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,384,392,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,132,140,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,14,22,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,5,13,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,177,185,0
+john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,473,481,0
+john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,616,624,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,247,255,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,256,264,0
+john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,588,596,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,190,198,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,329,337,0
+john_williams,Omaha Beach (Saving Private Ryan) by John Williams_,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,7,15,0
+max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,2959,2967,0
+howard_shore,The Three Hunters – Howard Shore,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,15,23,0
 john_williams,John William - Jurassic Park Theme,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,666,674,0
 ennio_morricone,Ennio Morricone - Poverty,Ring_motif,strong,0.5571,0.4286,0.5714,0.8571,29,37,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,190,198,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,3133,3141,0
-max_steiner,Gone With The Wind Suite – Max Steiner,Ring_motif,moderate,0.5571,0.2857,0.7143,1.0,2959,2967,0
+howard_shore,La comarca – Howard Shore,Ring_motif,strong,0.5571,0.4286,0.8571,0.4286,111,119,0
 ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,31,40,0
-ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,87,96,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.55,0.5,0.5,0.75,80,89,0
+john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.55,0.3,0.8,0.8,183,194,0
+max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,NibelungsHate_motif,strong,0.55,0.5,0.6667,0.5,335,348,0
 ennio_morricone,Ennio Morricone - Poverty,Nibelungs_motif,strong,0.55,0.5,0.5,0.75,170,179,0
+ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,143,152,0
+ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,133,142,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,11,20,0
+max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Horn_motif,strong,0.55,0.4,0.7,0.7,613,624,0
+john_williams,The Chairman's Walz (from Memoirs of a Geisha),Horn_motif,strong,0.55,0.4,0.7,0.7,110,121,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,155,164,0
+howard_shore,The Three Hunters – Howard Shore,Horn_motif,strong,0.55,0.5,0.6,0.6,17,28,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,21,30,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Nibelungs_motif,strong,0.55,0.5,0.75,0.375,651,660,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,162,171,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,134,143,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,253,262,0
+ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,24,33,0
+ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,118,127,0
+ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,59,68,0
 ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,3,12,0
 ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,31,40,0
-ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,59,68,0
-max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,384,393,0
 max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.55,0.5,0.5,0.75,341,350,0
-max_steiner,The Charge of The Light Brigade  -  Overture _ Max Steiner,Horn_motif,strong,0.55,0.4,0.7,0.7,613,624,0
-ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,115,124,0
-ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,143,152,0
-john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,119,128,0
-ennio_morricone,Deborah's Theme - C'era una volta in America (Once upon a time in America),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,133,142,0
-john_williams,The Chairman's Walz (from Memoirs of a Geisha),Horn_motif,strong,0.55,0.4,0.7,0.7,110,121,0
-john_williams,John William - Jurassic Park Theme,Horn_motif,strong,0.55,0.3,0.8,0.8,183,194,0
 john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,166,175,0
-max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,NibelungsHate_motif,strong,0.55,0.5,0.6667,0.5,335,348,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,155,164,0
-howard_shore,At the battle of Minas Tirith,Horn_motif,strong,0.55,0.4,0.7,0.7,49,60,0
-max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,220,229,0
-ennio_morricone,The Good The Bad and The Ugly,Horn_motif,strong,0.55,0.3,0.8,0.8,100,111,0
-ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,24,33,0
-max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.55,0.5,0.75,0.375,407,416,0
-howard_shore,The Three Hunters – Howard Shore,Horn_motif,strong,0.55,0.5,0.6,0.6,17,28,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Horn_motif,strong,0.55,0.4,0.5,1.0,347,358,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,Nibelungs_motif,strong,0.55,0.5,0.5,0.75,80,89,0
 ennio_morricone,Playing Love – The Legend of 1900,Horn_motif,strong,0.55,0.4,0.7,0.7,150,161,0
-ennio_morricone,A Fistful of Dollars (Morricone),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,118,127,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,21,30,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,11,20,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,134,143,0
-howard_shore,At the battle of Minas Tirith,Horn_motif,strong,0.55,0.5,0.6,0.6,0,11,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,174,183,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,Horn_motif,strong,0.55,0.3,0.8,0.8,238,249,0
-ennio_morricone,Mon nom est personne - Ennio Morricone,Horn_motif,strong,0.55,0.3,0.8,0.8,113,124,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,239,248,0
-howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,253,262,0
-john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.55,0.5,0.6667,0.5,468,481,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,162,171,0
+ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,115,124,0
+ennio_morricone,Ennio Morricone - Beastiality - The Thing,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,87,96,0
 max_steiner,The Charge of The Light Brigade  -  March – Max Steiner,Nibelungs_motif,strong,0.55,0.5,0.5,0.75,258,267,0
+max_steiner,The Adventures of Don Juan Suite,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,384,393,0
+john_williams,Helena's Theme – John Williams (from Indiana Jones And The Dial Of Destiny),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,119,128,0
+john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.55,0.5,0.6667,0.5,468,481,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,Horn_motif,strong,0.55,0.3,0.8,0.8,238,249,0
+howard_shore,At the battle of Minas Tirith,Horn_motif,strong,0.55,0.4,0.7,0.7,49,60,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,Horn_motif,strong,0.55,0.4,0.5,1.0,347,358,0
+ennio_morricone,The Good The Bad and The Ugly,Horn_motif,strong,0.55,0.3,0.8,0.8,100,111,0
+max_steiner,Main Theme - Gone With The Wind – Max Steiner,Nibelungs_motif,strong,0.55,0.375,0.625,0.875,220,229,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.5,0.5,0.75,174,183,0
+howard_shore,At the battle of Minas Tirith,Horn_motif,strong,0.55,0.5,0.6,0.6,0,11,0
 john_williams,The Tale of Viktor Navorski (John Williams),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,194,203,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold Feast in The  Forest,Nibelungs_motif,strong,0.55,0.5,0.75,0.375,651,660,0
-john_williams,The Tale of Viktor Navorski (John Williams),NibelungsHate_motif,strong,0.5333,0.3333,0.6667,0.8333,450,463,0
+howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),Nibelungs_motif,strong,0.55,0.375,0.625,0.875,239,248,0
+ennio_morricone,Mon nom est personne - Ennio Morricone,Horn_motif,strong,0.55,0.3,0.8,0.8,113,124,0
+max_steiner,King Kong March – Max Steiner,Nibelungs_motif,strong,0.55,0.5,0.75,0.375,407,416,0
 howard_shore,La comarca – Howard Shore,NibelungsHate_motif,strong,0.5333,0.5,0.6667,0.4167,128,141,0
+john_williams,The Tale of Viktor Navorski (John Williams),NibelungsHate_motif,strong,0.5333,0.3333,0.6667,0.8333,450,463,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5333,0.4167,0.5833,0.75,205,218,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.525,0.3333,0.5833,0.9167,70,83,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,NibelungsHate_motif,strong,0.525,0.4167,0.5,0.8333,170,183,0
 max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.525,0.4167,0.8333,0.3333,3418,3431,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,NibelungsHate_motif,strong,0.525,0.4167,0.5,0.8333,170,183,0
 max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.525,0.5,0.5833,0.5,4587,4600,0
-max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.525,0.4167,0.6667,0.5833,2806,2819,0
 john_williams,The Tale of Viktor Navorski (John Williams),NibelungsHate_motif,strong,0.525,0.3333,0.5833,0.9167,561,574,0
-john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,217,230,0
-howard_shore,At the battle of Minas Tirith,NibelungsHate_motif,strong,0.5167,0.5,0.6667,0.3333,2,15,0
-john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,232,245,0
-john_williams,John William - Jurassic Park Theme,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,581,594,0
+max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.525,0.4167,0.6667,0.5833,2806,2819,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.525,0.3333,0.5833,0.9167,70,83,0
 max_steiner,The Caine Mutiny March – Max Steiner,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,39,52,0
-erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,157,170,0
-erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,33,46,0
-john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,178,191,0
+john_williams,John William - Jurassic Park Theme,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,581,594,0
 ennio_morricone,Malena by Ennio Morricone _ Viola and piano,NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,150,163,0
+john_williams,Hymn To The Fallen (Saving Private Ryan) Organ Cover,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,232,245,0
+howard_shore,At the battle of Minas Tirith,NibelungsHate_motif,strong,0.5167,0.5,0.6667,0.3333,2,15,0
+erich_wolfgang_korngold,The Sea Hawk – Erich Wolfgang Korngold Leitmotifs,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,157,170,0
 john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,31,44,0
+john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,178,191,0
+erich_wolfgang_korngold,The Adventures of Robin Hood -  Finale,NibelungsHate_motif,strong,0.5167,0.3333,0.6667,0.75,33,46,0
+john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,217,230,0
 john_williams,John Williams - The Hunt (Piano Solo),NibelungsHate_motif,strong,0.5167,0.4167,0.5833,0.6667,18,31,0
 john_williams,John William - Jurassic Park Theme,ForestMurmurs_motif,moderate,0.5106,0.2553,0.6383,0.9574,158,206,0
-erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,NibelungsHate_motif,strong,0.5083,0.4167,0.5,0.75,631,644,0
-john_williams,The Tale of Viktor Navorski (John Williams),NibelungsHate_motif,strong,0.5083,0.3333,0.5833,0.8333,592,605,0
 howard_shore,Over the Misty Mountains Cold (from J. R. R. Tolkien's book The Hobbit),NibelungsHate_motif,strong,0.5083,0.3333,0.75,0.5833,303,316,0
-max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.5083,0.4167,0.6667,0.5,1093,1106,0
 erich_wolfgang_korngold,Korngold_ Love Scene from The Adventures of Robin Hood (1938),NibelungsHate_motif,strong,0.5083,0.4167,0.6667,0.5,450,463,0
+max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.5083,0.4167,0.6667,0.5,1093,1106,0
+john_williams,The Tale of Viktor Navorski (John Williams),NibelungsHate_motif,strong,0.5083,0.3333,0.5833,0.8333,592,605,0
+erich_wolfgang_korngold,The Adventures of Robin Hood – Erich Wolfgang Korngold The Archery Tournament,NibelungsHate_motif,strong,0.5083,0.4167,0.5,0.75,631,644,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5083,0.3333,0.5833,0.8333,310,323,0
-max_steiner,The Caine Mutiny March – Max Steiner,NibelungsHate_motif,strong,0.5,0.4167,0.75,0.3333,87,100,0
-ennio_morricone,Malena by Ennio Morricone _ Viola and piano,NibelungsHate_motif,strong,0.5,0.3333,0.6667,0.6667,163,176,0
 max_steiner,Gone With The Wind Suite – Max Steiner,NibelungsHate_motif,strong,0.5,0.4167,0.75,0.3333,3899,3912,0
-erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5,0.3333,0.6667,0.6667,153,166,0
 erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,moderate,0.5,0.25,0.75,0.75,41,54,0
+erich_wolfgang_korngold,[WIP] [Piano Arr.] Suite from The Sea Hawk – Erich Korngold,NibelungsHate_motif,strong,0.5,0.3333,0.6667,0.6667,153,166,0
+ennio_morricone,Malena by Ennio Morricone _ Viola and piano,NibelungsHate_motif,strong,0.5,0.3333,0.6667,0.6667,163,176,0
 ennio_morricone,La Califfa - Ennio Morricone,NibelungsHate_motif,strong,0.5,0.4167,0.5833,0.5833,125,138,0
+max_steiner,The Caine Mutiny March – Max Steiner,NibelungsHate_motif,strong,0.5,0.4167,0.75,0.3333,87,100,0
 john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),ForestMurmurs_motif,moderate,0.4915,0.1489,0.7234,1.0,289,337,0
 john_williams,Holiday Flight (from Home Alone 2) - John Williams_Joni Leiman (Solo Piano Transcription),ForestMurmurs_motif,moderate,0.4787,0.1702,0.6596,0.9787,89,137,0
 ennio_morricone,L'Ultima Diligenza di Red Rock for Piano,ForestMurmurs_motif,moderate,0.4702,0.1064,0.8936,0.7447,7,55,0

@@ -5,7 +5,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2026-03-12</encoding-date>
+      <encoding-date>2026-03-14</encoding-date>
       <software>music21 v.9.9.1</software>
     </encoding>
   </identification>
@@ -16,12 +16,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P7a2057557e26eb05e4c62c273d4b63d3">
+    <score-part id="Pd7f00a7b8035fc1532cda1870bae739b">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P7a2057557e26eb05e4c62c273d4b63d3">
+  <part id="Pd7f00a7b8035fc1532cda1870bae739b">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -38,42 +38,42 @@
       <note>
         <pitch>
           <step>D</step>
-          <octave>4</octave>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
-        <stem>up</stem>
+        <stem>down</stem>
         <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
-          <step>D</step>
-          <octave>4</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
       </note>
       <note>
         <pitch>
           <step>D</step>
-          <octave>4</octave>
+          <octave>5</octave>
         </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>up</stem>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
         <beam number="1">end</beam>
+        <beam number="2">end</beam>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

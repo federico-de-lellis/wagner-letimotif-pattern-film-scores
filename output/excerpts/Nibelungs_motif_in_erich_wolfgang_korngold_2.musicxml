@@ -5,7 +5,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2026-03-12</encoding-date>
+      <encoding-date>2026-03-14</encoding-date>
       <software>music21 v.9.9.1</software>
     </encoding>
   </identification>
@@ -16,12 +16,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P3b9902279133472d853a29b6326b2433">
+    <score-part id="P5b1baa0a67b1a80ea52ab75901a161e7">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P3b9902279133472d853a29b6326b2433">
+  <part id="P5b1baa0a67b1a80ea52ab75901a161e7">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -37,78 +37,14 @@
       </attributes>
       <note>
         <pitch>
-          <step>G</step>
+          <step>A</step>
           <octave>3</octave>
         </pitch>
-        <duration>3360</duration>
+        <duration>7560</duration>
         <type>eighth</type>
-        <time-modification>
-          <actual-notes>3</actual-notes>
-          <normal-notes>2</normal-notes>
-          <normal-type>eighth</normal-type>
-        </time-modification>
-        <notations>
-          <tuplet bracket="yes" number="1" placement="above" type="start">
-            <tuplet-actual>
-              <tuplet-number>3</tuplet-number>
-              <tuplet-type>eighth</tuplet-type>
-            </tuplet-actual>
-            <tuplet-normal>
-              <tuplet-number>2</tuplet-number>
-              <tuplet-type>eighth</tuplet-type>
-            </tuplet-normal>
-          </tuplet>
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>6720</duration>
-        <tie type="start" />
-        <type>quarter</type>
-        <time-modification>
-          <actual-notes>3</actual-notes>
-          <normal-notes>2</normal-notes>
-          <normal-type>quarter</normal-type>
-        </time-modification>
-        <notations>
-          <tied type="start" />
-          <tuplet number="1" type="stop" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>840</duration>
-        <tie type="stop" />
-        <type>32nd</type>
-        <time-modification>
-          <actual-notes>3</actual-notes>
-          <normal-notes>2</normal-notes>
-          <normal-type>32nd</normal-type>
-        </time-modification>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <beam number="2">begin</beam>
-        <beam number="3">forward hook</beam>
-        <notations>
-          <tied type="stop" />
-          <tuplet bracket="no" number="1" placement="above" type="start">
-            <tuplet-actual>
-              <tuplet-number>3</tuplet-number>
-              <tuplet-type>32nd</tuplet-type>
-            </tuplet-actual>
-            <tuplet-normal>
-              <tuplet-number>2</tuplet-number>
-              <tuplet-type>32nd</tuplet-type>
-            </tuplet-normal>
-          </tuplet>
-          <tuplet number="1" type="stop" />
-        </notations>
       </note>
       <note>
         <pitch>
@@ -119,7 +55,7 @@
         <type>16th</type>
         <stem>down</stem>
         <beam number="1">end</beam>
-        <beam number="2">end</beam>
+        <beam number="2">backward hook</beam>
       </note>
       <note>
         <pitch>
@@ -171,7 +107,7 @@
           <normal-type>eighth</normal-type>
         </time-modification>
         <stem>down</stem>
-        <beam number="1">end</beam>
+        <beam number="1">continue</beam>
       </note>
       <note>
         <pitch>
@@ -185,6 +121,8 @@
           <normal-notes>2</normal-notes>
           <normal-type>eighth</normal-type>
         </time-modification>
+        <stem>down</stem>
+        <beam number="1">end</beam>
         <notations>
           <tuplet number="1" type="stop" />
         </notations>
@@ -194,28 +132,22 @@
           <step>A</step>
           <octave>3</octave>
         </pitch>
-        <duration>6720</duration>
-        <tie type="start" />
-        <type>quarter</type>
-        <time-modification>
-          <actual-notes>3</actual-notes>
-          <normal-notes>2</normal-notes>
-          <normal-type>quarter</normal-type>
-        </time-modification>
-        <notations>
-          <tied type="start" />
-          <tuplet bracket="no" number="1" placement="above" type="start">
-            <tuplet-actual>
-              <tuplet-number>3</tuplet-number>
-              <tuplet-type>quarter</tuplet-type>
-            </tuplet-actual>
-            <tuplet-normal>
-              <tuplet-number>2</tuplet-number>
-              <tuplet-type>quarter</tuplet-type>
-            </tuplet-normal>
-          </tuplet>
-          <tuplet number="1" type="stop" />
-        </notations>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
       </note>
     </measure>
     <!--========================= Measure 2 ==========================-->
@@ -224,34 +156,6 @@
         <pitch>
           <step>A</step>
           <octave>3</octave>
-        </pitch>
-        <duration>21000</duration>
-        <tie type="stop" />
-        <type>whole</type>
-        <time-modification>
-          <actual-notes>48</actual-notes>
-          <normal-notes>25</normal-notes>
-          <normal-type>64th</normal-type>
-        </time-modification>
-        <notations>
-          <tied type="stop" />
-          <tuplet bracket="no" number="1" placement="above" type="start">
-            <tuplet-actual>
-              <tuplet-number>48</tuplet-number>
-              <tuplet-type>64th</tuplet-type>
-            </tuplet-actual>
-            <tuplet-normal>
-              <tuplet-number>25</tuplet-number>
-              <tuplet-type>64th</tuplet-type>
-            </tuplet-normal>
-          </tuplet>
-          <tuplet number="1" type="stop" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>

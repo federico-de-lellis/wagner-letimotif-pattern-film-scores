@@ -5,7 +5,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2026-03-12</encoding-date>
+      <encoding-date>2026-03-14</encoding-date>
       <software>music21 v.9.9.1</software>
     </encoding>
   </identification>
@@ -16,12 +16,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P6c35654f4eafe93cb576ca05862fdcb3">
+    <score-part id="P35bf437b221e293a6862eedfe07b7e20">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P6c35654f4eafe93cb576ca05862fdcb3">
+  <part id="P35bf437b221e293a6862eedfe07b7e20">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -37,70 +37,44 @@
       </attributes>
       <note>
         <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
           <step>F</step>
           <octave>5</octave>
         </pitch>
-        <duration>15120</duration>
-        <type>quarter</type>
-        <dot />
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>15120</duration>
-        <tie type="start" />
-        <type>quarter</type>
-        <dot />
-        <notations>
-          <tied type="start" />
-        </notations>
+        <duration>40320</duration>
+        <type>whole</type>
       </note>
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure implicit="no" number="2">
       <note>
         <pitch>
-          <step>G</step>
-          <octave>4</octave>
+          <step>F</step>
+          <octave>5</octave>
         </pitch>
-        <duration>20160</duration>
-        <tie type="stop" />
-        <tie type="start" />
-        <type>half</type>
-        <notations>
-          <tied type="stop" />
-          <tied type="start" />
-        </notations>
+        <duration>10080</duration>
+        <type>quarter</type>
       </note>
       <note>
         <pitch>
-          <step>G</step>
-          <octave>4</octave>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
         </pitch>
         <duration>5040</duration>
-        <tie type="stop" />
         <type>eighth</type>
-        <notations>
-          <tied type="stop" />
-        </notations>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
