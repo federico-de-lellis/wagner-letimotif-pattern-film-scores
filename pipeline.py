@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
 """
 Wagner Leitmotif Pattern Recognition & Matching in Film Composer Scores
-=======================================================================
 Computational musicology pipeline using music21 for musical pattern discovery.
-
-References:
-- Janssen, de Haas, Volk & van Kranenburg (2013) — "Musical Pattern Discovery", CMMR 2013
-- Dowling (1978) — Melodic contour as perceptual representation
-- Weiß et al. (2023, TISMIR) — Wagner Ring Dataset
 """
 
 import os
@@ -26,9 +20,7 @@ from music21 import converter, interval, stream, note, chord
 
 warnings.filterwarnings('ignore', category=UserWarning)
 
-# ============================================================
-# Step 1 — Music Representation Module
-# ============================================================
+# Music representation module
 
 def extract_representations(path: str) -> dict:
     """
@@ -54,10 +46,10 @@ def extract_representations(path: str) -> dict:
     if len(notes_list) < 2:
         raise ValueError(f"Too few notes in {path}")
 
-    # Representation 1: MIDI pitch sequence
+    # MIDI pitch sequence
     midi_seq = [n.pitch.midi for n in notes_list]
 
-    # Representation 2: Chromatic interval sequence (transposition-invariant)
+    # Chromatic interval sequence (transposition-invariant)
     interval_seq = []
     for i in range(len(notes_list) - 1):
         try:
@@ -66,16 +58,16 @@ def extract_representations(path: str) -> dict:
         except Exception:
             interval_seq.append(midi_seq[i + 1] - midi_seq[i])
 
-    # Representation 3: Melodic contour (Dowling 1978: -1, 0, +1)
+    # Melodic contour (Dowling 1978: -1, 0, +1)
     contour_seq = [
         0 if interval_seq[i] == 0 else (1 if interval_seq[i] > 0 else -1)
         for i in range(len(interval_seq))
     ]
 
-    # Representation 4: Rhythmic duration sequence (in quarter-note units)
+    # Rhythmic duration sequence (in quarter-note units)
     rhythm_seq = [float(n.duration.quarterLength) for n in notes_list]
 
-    # Representation 5: Combined (interval + rhythm tuples)
+    # Combined (interval + rhythm tuples)
     combined_seq = list(zip(interval_seq, rhythm_seq[:-1]))
 
     return {
@@ -89,9 +81,7 @@ def extract_representations(path: str) -> dict:
     }
 
 
-# ============================================================
-# Step 2 — Pattern Matching Engine
-# ============================================================
+# Pattern Matching Engine
 
 def find_exact_matches(leitmotif_repr: dict, score_repr: dict, rep_type: str = 'interval') -> list:
     """
@@ -200,9 +190,7 @@ def find_contour_matches(
     return sorted(matches, key=lambda x: x['similarity'], reverse=True)
 
 
-# ============================================================
-# Step 3 — Filtering
-# ============================================================
+# Filtering
 
 def filter_matches(matches: list, min_similarity: float = 0.80, top_n: int = 20) -> list:
     """
@@ -226,10 +214,7 @@ def filter_matches(matches: list, min_similarity: float = 0.80, top_n: int = 20)
 
     return non_overlapping[:top_n]
 
-
-# ============================================================
-# Step 4 — Full Pipeline Orchestrator
-# ============================================================
+# Full Pipeline Orchestrator
 
 def run_full_pipeline(
     leitmotif_dir: str,
@@ -330,9 +315,7 @@ def run_full_pipeline(
     return df
 
 
-# ============================================================
-# Step 5 — Analysis & Reporting
-# ============================================================
+# Analysis & Reporting
 
 def generate_summary(df: pd.DataFrame, output_dir: str):
     """Generate summary tables and visualizations."""
@@ -340,13 +323,13 @@ def generate_summary(df: pd.DataFrame, output_dir: str):
         print("No data to summarize.")
         return
 
-    # --- Table 1: Match counts per leitmotif per composer ---
+    # --- Match counts per leitmotif per composer ---
     pivot = df.groupby(['leitmotif', 'composer']).size().unstack(fill_value=0)
     pivot.to_csv(os.path.join(output_dir, 'summary_counts.csv'))
     print("\n=== Match Counts per Leitmotif per Composer ===")
     print(pivot.to_string())
 
-    # --- Table 2: Top 20 highest-similarity matches ---
+    # --- Top 20 highest-similarity matches ---
     top20 = df.nlargest(20, 'similarity')[
         ['composer', 'score', 'leitmotif', 'match_type', 'similarity']
     ]
@@ -354,7 +337,7 @@ def generate_summary(df: pd.DataFrame, output_dir: str):
     print("\n=== Top 20 Matches by Similarity ===")
     print(top20.to_string())
 
-    # --- Plot 1: Heatmap of match frequency ---
+    # --- Heatmap of match frequency ---
     plt.figure(figsize=(14, 8))
     sns.heatmap(pivot, annot=True, fmt='d', cmap='YlOrRd')
     plt.title("Leitmotif Match Frequency Across Film Composers")
@@ -362,7 +345,7 @@ def generate_summary(df: pd.DataFrame, output_dir: str):
     plt.savefig(os.path.join(output_dir, 'heatmap_matches.png'), dpi=150)
     plt.close()
 
-    # --- Plot 2: Similarity distribution per composer ---
+    # --- Similarity distribution per composer ---
     plt.figure(figsize=(10, 5))
     sns.boxplot(data=df, x='composer', y='similarity')
     plt.title("Similarity Score Distribution by Composer")
@@ -371,7 +354,7 @@ def generate_summary(df: pd.DataFrame, output_dir: str):
     plt.savefig(os.path.join(output_dir, 'boxplot_similarity.png'), dpi=150)
     plt.close()
 
-    # --- Plot 3: Match type breakdown ---
+    # --- Match type breakdown ---
     plt.figure(figsize=(8, 4))
     df['match_type'].value_counts().plot(kind='bar', color=['#2a9d8f', '#e9c46a', '#e76f51'])
     plt.title("Match Types (Exact / Approximate / Contour)")
@@ -380,7 +363,7 @@ def generate_summary(df: pd.DataFrame, output_dir: str):
     plt.savefig(os.path.join(output_dir, 'barchart_match_types.png'), dpi=150)
     plt.close()
 
-    print(f"\n✅ Visualizations saved to {output_dir}")
+    print(f"\nVisualizations saved to {output_dir}")
 
 
 def export_match_excerpt(
@@ -403,13 +386,10 @@ def export_match_excerpt(
         excerpt.append(n)
 
     excerpt.write('musicxml', fp=output_path)
-    print(f"  📄 Excerpt saved: {output_path}")
+    print(f"  Excerpt saved: {output_path}")
 
 
-# ============================================================
-# Step 6 — Execution Entry Point
-# ============================================================
-
+# Execution
 if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     LEITMOTIF_DIR = os.path.join(BASE_DIR, "leitmotifs")
