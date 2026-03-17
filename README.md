@@ -2,31 +2,51 @@
 
 ## Overview
 
-A computational musicology pipeline that searches for Wagner leitmotif patterns across film composer scores using music21. The pipeline employs three complementary matching strategies:
+A computational musicology pipeline that searches for 10 Wagner leitmotifs across 70 film composer scores (MusicXML) using music21. The project provides two implementations that share the same music representation layer but differ in their matching strategies:
 
-1. **Exact match** — interval-based, transposition-invariant sliding window
-2. **Approximate match** — Levenshtein edit distance with configurable tolerance
-3. **Contour match** — melodic direction (shape-based) comparison
+- **`pipeline.py`** — standalone script using three sequential matching passes (exact, approximate, contour), suitable for batch processing with configurable thresholds.
+- **`wagner_leitmotif_demo.ipynb`** — full research notebook with a unified multi-dimensional scorer, adaptive thresholds, match classification, statistical significance analysis, and visualisations.
+
+### Matching strategies
+
+Both implementations extract the same five music representations (MIDI pitch, semitone interval, melodic contour, rhythm, combined interval+rhythm) and apply a sliding-window search. The notebook extends this with:
+
+1. **Unified combined score** — weighted combination of interval similarity (50%), contour similarity (30%), and rhythm similarity (20%), evaluated at every window position.
+2. **Adaptive thresholds** — minimum combined-score threshold scales with motif length (0.70 for n ≤ 3 intervals down to 0.45 for n > 15), preventing short motifs from matching by contour alone.
+3. **Match classification** — each accepted window is labelled `exact`, `near-exact`, `strong`, `moderate`, or `approximate` based on the interval and rhythm similarity components.
+4. **Approximate matching (Levenshtein)** — secondary pass on interval sequences; maximum edit distance scales with pattern length (`max(1, n // 4)`, capped at 3).
+5. **Statistical significance baseline** — expected random-match counts are estimated per motif and composer to contextualise observed match frequencies.
 
 ## Repository Structure
 
 ```
 ├── pipeline.py                          # Main pipeline script
-├── wagner_leitmotif_demo.ipynb          # Self-contained
+├── wagner_leitmotif_demo.ipynb          # Full research notebook
 ├── leitmotifs/                          # 10 Wagner leitmotif MusicXML files
+│   ├── ForestMurmurs_motif.musicxml
+│   ├── Horn_motif.musicxml
+│   ├── Mime_motif.musicxml
+│   ├── Nibelungs_motif.musicxml
+│   ├── NibelungsHate_motif.musicxml
+│   ├── Ride_motif.musicxml
+│   ├── Ring_motif.musicxml
+│   ├── SiblingsLove_motif.musicxml
+│   ├── SwirlingBlaze_motif.musicxml
+│   └── Sword_motif.musicxml
 ├── scores/                              # Film composer scores (MusicXML)
-│   ├── ennio_morricone/
-│   ├── erich_wolfgang_korngold/
-│   ├── howard_shore/
-│   ├── john_williams/
-│   └── max_steiner/
+│   ├── ennio_morricone/                 # 19 scores
+│   ├── erich_wolfgang_korngold/         # 13 scores
+│   ├── howard_shore/                    # 8 scores
+│   ├── john_williams/                   # 15 scores
+│   └── max_steiner/                     # 15 scores
 └── output/                              # Pipeline results
     ├── matches_full.csv                 # All matches with metadata
-    ├── summary_counts.csv               # Leitmotif × composer pivot table
+    ├── summary_counts.csv               # Leitmotif x composer pivot table
     ├── top20_matches.csv                # Top 20 highest-similarity matches
     ├── heatmap_matches.png              # Match frequency heatmap
     ├── boxplot_similarity.png           # Similarity distribution per composer
-    ├── barchart_match_types.png         # Match type breakdown
+    ├── barchart_match_classes.png       # Match class breakdown (notebook)
+    ├── density_significance.png         # Per-composer significance ratios (notebook)
     └── excerpts/                        # MusicXML snippets of top matches
 ```
 
@@ -35,8 +55,10 @@ A computational musicology pipeline that searches for Wagner leitmotif patterns 
 ### 1. Install dependencies
 
 ```bash
-pip install music21 numpy pandas scipy matplotlib seaborn openpyxl nbformat nbconvert
+pip install music21 numpy pandas matplotlib seaborn openpyxl nbformat nbconvert
 ```
+
+Requires **Python >= 3.10**.
 
 ### 2. Run the pipeline on real MusicXML files
 
@@ -48,17 +70,17 @@ Results are written to `output/`.
 
 ### 3. Demo notebook
 
-The demo notebook uses the data in leitmotifs/ and scores/ to run the pipeline and visualize results. To execute it end-to-end:
+The notebook uses the data in `leitmotifs/` and `scores/` to run the full pipeline and produce all visualisations. To execute it end-to-end:
 
 ```bash
 jupyter nbconvert --to notebook --execute --inplace wagner_leitmotif_demo.ipynb
 ```
 
-Or open it in Jupyter/VS Code and click **Run All**.
+Or open it in Jupyter / VS Code and click **Run All**.
 
 ## Using Your Own MusicXML Files
 
-To swap in your own real scores, edit `pipeline.py` and update:
+To swap in your own scores, edit `pipeline.py` and update:
 
 ```python
 LEITMOTIF_DIR = "path/to/your/leitmotifs/"
@@ -66,7 +88,7 @@ SCORE_DIR = "path/to/your/scores/"
 OUTPUT_DIR = "path/to/output/"
 ```
 
-Score directories should be organized by composer:
+Score directories should be organised by composer:
 ```
 scores/
 ├── composer_a/
@@ -78,20 +100,29 @@ scores/
 
 ## Pipeline Parameters
 
+### `pipeline.py`
+
 | Parameter | Default | Description |
 |---|---|---|
-| `MAX_EDIT_DISTANCE` | 2 | Levenshtein tolerance (0 = exact only) |
-| `MIN_SIMILARITY` | 0.80 | Minimum match quality threshold (0.0–1.0) |
+| `MAX_EDIT_DISTANCE` | 2 | Levenshtein tolerance for approximate interval matching |
+| `MIN_SIMILARITY` | 0.80 | Minimum similarity threshold applied to all three match types |
 
-## Theoretical Grounding
+### `wagner_leitmotif_demo.ipynb`
 
-Based on Janssen, de Haas, Volk & van Kranenburg (2013) — *"Musical Pattern Discovery"*, CMMR 2013:
+| Parameter | Default | Description |
+|---|---|---|
+| `W_INTERVAL` | 0.50 | Weight of interval similarity in the combined score |
+| `W_CONTOUR` | 0.30 | Weight of contour similarity in the combined score |
+| `W_RHYTHM` | 0.20 | Weight of rhythm similarity in the combined score |
+| Adaptive threshold | 0.45 – 0.70 | Minimum combined score; scales with motif length (see table below) |
+| Max edit distance | `max(1, n // 4)`, capped at 3 | Levenshtein tolerance; scales with pattern length |
 
-- Multiple music representations (pitch interval, contour, rhythm)
-- String-based sliding-window search
-- Approximate matching via Levenshtein edit distance
-- Length + similarity filtering
+**Adaptive threshold by motif length:**
 
-## License
-
-Research use only.
+| Motif length (intervals) | Threshold | Rationale |
+|---|---|---|
+| <= 3 (e.g. Mime) | 0.70 | Very short: pure contour match peaks at ~0.46, so interval evidence is required |
+| 4 – 6 (e.g. Ride, Sword) | 0.60 | Short: partial interval match needed |
+| 7 – 10 (e.g. Ring, Horn) | 0.55 | Medium: moderate combined evidence filters noise |
+| 11 – 15 (e.g. NibelungsHate) | 0.50 | Longer: patterns are inherently more selective |
+| > 15 (e.g. ForestMurmurs) | 0.45 | Very long: even moderate combined evidence is significant |
