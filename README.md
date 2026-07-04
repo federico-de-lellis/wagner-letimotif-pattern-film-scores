@@ -7,6 +7,8 @@ A computational musicology pipeline that searches for 10 Wagner leitmotifs acros
 - **`pipeline.py`** — standalone script using three sequential matching passes (exact, approximate, contour), suitable for batch processing with configurable thresholds.
 - **`wagner_leitmotif_demo.ipynb`** — full research notebook with a unified multi-dimensional scorer, adaptive thresholds, match classification, statistical significance analysis, and visualisations.
 
+The accompanying paper is included in this repository: [wagner-leitmotif.pdf](https://github.com/federico-de-lellis/wagner-letimotif-pattern-film-scores/blob/main/wagner-leitmotif.pdf)
+
 ### Matching strategies
 
 Both implementations extract the same five music representations (MIDI pitch, semitone interval, melodic contour, rhythm, combined interval+rhythm) and apply a sliding-window search. The notebook extends this with:
